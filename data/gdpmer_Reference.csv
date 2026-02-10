@@ -1,0 +1,705 @@
+Units,scenario,region,year,account,value
+million 1990$,Reference,Africa_Eastern,1975,GDP,28893
+million 1990$,Reference,Africa_Eastern,1990,GDP,46850
+million 1990$,Reference,Africa_Eastern,2005,GDP,85953
+million 1990$,Reference,Africa_Eastern,2010,GDP,119402
+million 1990$,Reference,Africa_Eastern,2015,GDP,151679
+million 1990$,Reference,Africa_Eastern,2020,GDP,187112
+million 1990$,Reference,Africa_Eastern,2025,GDP,239022
+million 1990$,Reference,Africa_Eastern,2030,GDP,321356
+million 1990$,Reference,Africa_Eastern,2035,GDP,427658
+million 1990$,Reference,Africa_Eastern,2040,GDP,569869
+million 1990$,Reference,Africa_Eastern,2045,GDP,757672
+million 1990$,Reference,Africa_Eastern,2050,GDP,1001190
+million 1990$,Reference,Africa_Eastern,2055,GDP,1312420
+million 1990$,Reference,Africa_Eastern,2060,GDP,1704500
+million 1990$,Reference,Africa_Eastern,2065,GDP,2190550
+million 1990$,Reference,Africa_Eastern,2070,GDP,2782710
+million 1990$,Reference,Africa_Eastern,2075,GDP,3489840
+million 1990$,Reference,Africa_Eastern,2080,GDP,4317660
+million 1990$,Reference,Africa_Eastern,2085,GDP,5271490
+million 1990$,Reference,Africa_Eastern,2090,GDP,6354510
+million 1990$,Reference,Africa_Eastern,2095,GDP,7567070
+million 1990$,Reference,Africa_Eastern,2100,GDP,8902450
+million 1990$,Reference,Africa_Northern,1975,GDP,84938
+million 1990$,Reference,Africa_Northern,1990,GDP,190375
+million 1990$,Reference,Africa_Northern,2005,GDP,310900
+million 1990$,Reference,Africa_Northern,2010,GDP,387805
+million 1990$,Reference,Africa_Northern,2015,GDP,418411
+million 1990$,Reference,Africa_Northern,2020,GDP,515797
+million 1990$,Reference,Africa_Northern,2025,GDP,627167
+million 1990$,Reference,Africa_Northern,2030,GDP,785256
+million 1990$,Reference,Africa_Northern,2035,GDP,960109
+million 1990$,Reference,Africa_Northern,2040,GDP,1154210
+million 1990$,Reference,Africa_Northern,2045,GDP,1367090
+million 1990$,Reference,Africa_Northern,2050,GDP,1596440
+million 1990$,Reference,Africa_Northern,2055,GDP,1845850
+million 1990$,Reference,Africa_Northern,2060,GDP,2116550
+million 1990$,Reference,Africa_Northern,2065,GDP,2406360
+million 1990$,Reference,Africa_Northern,2070,GDP,2705240
+million 1990$,Reference,Africa_Northern,2075,GDP,3008440
+million 1990$,Reference,Africa_Northern,2080,GDP,3315290
+million 1990$,Reference,Africa_Northern,2085,GDP,3626790
+million 1990$,Reference,Africa_Northern,2090,GDP,3943800
+million 1990$,Reference,Africa_Northern,2095,GDP,4264810
+million 1990$,Reference,Africa_Northern,2100,GDP,4585280
+million 1990$,Reference,Africa_Southern,1975,GDP,28497
+million 1990$,Reference,Africa_Southern,1990,GDP,42717
+million 1990$,Reference,Africa_Southern,2005,GDP,79377
+million 1990$,Reference,Africa_Southern,2010,GDP,120196
+million 1990$,Reference,Africa_Southern,2015,GDP,155391
+million 1990$,Reference,Africa_Southern,2020,GDP,172716
+million 1990$,Reference,Africa_Southern,2025,GDP,210838
+million 1990$,Reference,Africa_Southern,2030,GDP,265758
+million 1990$,Reference,Africa_Southern,2035,GDP,330674
+million 1990$,Reference,Africa_Southern,2040,GDP,416796
+million 1990$,Reference,Africa_Southern,2045,GDP,532045
+million 1990$,Reference,Africa_Southern,2050,GDP,683695
+million 1990$,Reference,Africa_Southern,2055,GDP,878830
+million 1990$,Reference,Africa_Southern,2060,GDP,1124650
+million 1990$,Reference,Africa_Southern,2065,GDP,1429040
+million 1990$,Reference,Africa_Southern,2070,GDP,1799010
+million 1990$,Reference,Africa_Southern,2075,GDP,2239500
+million 1990$,Reference,Africa_Southern,2080,GDP,2756650
+million 1990$,Reference,Africa_Southern,2085,GDP,3354570
+million 1990$,Reference,Africa_Southern,2090,GDP,4035510
+million 1990$,Reference,Africa_Southern,2095,GDP,4799690
+million 1990$,Reference,Africa_Southern,2100,GDP,5645680
+million 1990$,Reference,Africa_Western,1975,GDP,136747
+million 1990$,Reference,Africa_Western,1990,GDP,167596
+million 1990$,Reference,Africa_Western,2005,GDP,292856
+million 1990$,Reference,Africa_Western,2010,GDP,393371
+million 1990$,Reference,Africa_Western,2015,GDP,499850
+million 1990$,Reference,Africa_Western,2020,GDP,565228
+million 1990$,Reference,Africa_Western,2025,GDP,691037
+million 1990$,Reference,Africa_Western,2030,GDP,943443
+million 1990$,Reference,Africa_Western,2035,GDP,1267350
+million 1990$,Reference,Africa_Western,2040,GDP,1692420
+million 1990$,Reference,Africa_Western,2045,GDP,2246240
+million 1990$,Reference,Africa_Western,2050,GDP,2959670
+million 1990$,Reference,Africa_Western,2055,GDP,3869950
+million 1990$,Reference,Africa_Western,2060,GDP,5011820
+million 1990$,Reference,Africa_Western,2065,GDP,6418320
+million 1990$,Reference,Africa_Western,2070,GDP,8116920
+million 1990$,Reference,Africa_Western,2075,GDP,10125900
+million 1990$,Reference,Africa_Western,2080,GDP,12455700
+million 1990$,Reference,Africa_Western,2085,GDP,15110900
+million 1990$,Reference,Africa_Western,2090,GDP,18093400
+million 1990$,Reference,Africa_Western,2095,GDP,21389300
+million 1990$,Reference,Africa_Western,2100,GDP,24973400
+million 1990$,Reference,Argentina,1975,GDP,136953
+million 1990$,Reference,Argentina,1990,GDP,129111
+million 1990$,Reference,Argentina,2005,GDP,221566
+million 1990$,Reference,Argentina,2010,GDP,281343
+million 1990$,Reference,Argentina,2015,GDP,302727
+million 1990$,Reference,Argentina,2020,GDP,299468
+million 1990$,Reference,Argentina,2025,GDP,354142
+million 1990$,Reference,Argentina,2030,GDP,412788
+million 1990$,Reference,Argentina,2035,GDP,473963
+million 1990$,Reference,Argentina,2040,GDP,535352
+million 1990$,Reference,Argentina,2045,GDP,596067
+million 1990$,Reference,Argentina,2050,GDP,658464
+million 1990$,Reference,Argentina,2055,GDP,722780
+million 1990$,Reference,Argentina,2060,GDP,788264
+million 1990$,Reference,Argentina,2065,GDP,854504
+million 1990$,Reference,Argentina,2070,GDP,920309
+million 1990$,Reference,Argentina,2075,GDP,984430
+million 1990$,Reference,Argentina,2080,GDP,1047910
+million 1990$,Reference,Argentina,2085,GDP,1111350
+million 1990$,Reference,Argentina,2090,GDP,1175140
+million 1990$,Reference,Argentina,2095,GDP,1238640
+million 1990$,Reference,Argentina,2100,GDP,1301070
+million 1990$,Reference,Australia_NZ,1975,GDP,295338
+million 1990$,Reference,Australia_NZ,1990,GDP,475381
+million 1990$,Reference,Australia_NZ,2005,GDP,772867
+million 1990$,Reference,Australia_NZ,2010,GDP,882794
+million 1990$,Reference,Australia_NZ,2015,GDP,1013760
+million 1990$,Reference,Australia_NZ,2020,GDP,1153320
+million 1990$,Reference,Australia_NZ,2025,GDP,1314240
+million 1990$,Reference,Australia_NZ,2030,GDP,1475870
+million 1990$,Reference,Australia_NZ,2035,GDP,1640170
+million 1990$,Reference,Australia_NZ,2040,GDP,1815630
+million 1990$,Reference,Australia_NZ,2045,GDP,2005560
+million 1990$,Reference,Australia_NZ,2050,GDP,2197820
+million 1990$,Reference,Australia_NZ,2055,GDP,2396400
+million 1990$,Reference,Australia_NZ,2060,GDP,2614960
+million 1990$,Reference,Australia_NZ,2065,GDP,2849260
+million 1990$,Reference,Australia_NZ,2070,GDP,3093460
+million 1990$,Reference,Australia_NZ,2075,GDP,3336930
+million 1990$,Reference,Australia_NZ,2080,GDP,3579390
+million 1990$,Reference,Australia_NZ,2085,GDP,3816400
+million 1990$,Reference,Australia_NZ,2090,GDP,4050340
+million 1990$,Reference,Australia_NZ,2095,GDP,4283890
+million 1990$,Reference,Australia_NZ,2100,GDP,4516130
+million 1990$,Reference,Brazil,1975,GDP,479174
+million 1990$,Reference,Brazil,1990,GDP,786901
+million 1990$,Reference,Brazil,2005,GDP,1170820
+million 1990$,Reference,Brazil,2010,GDP,1457110
+million 1990$,Reference,Brazil,2015,GDP,1542290
+million 1990$,Reference,Brazil,2020,GDP,1594440
+million 1990$,Reference,Brazil,2025,GDP,1794200
+million 1990$,Reference,Brazil,2030,GDP,2048030
+million 1990$,Reference,Brazil,2035,GDP,2291720
+million 1990$,Reference,Brazil,2040,GDP,2542530
+million 1990$,Reference,Brazil,2045,GDP,2795190
+million 1990$,Reference,Brazil,2050,GDP,3044300
+million 1990$,Reference,Brazil,2055,GDP,3298840
+million 1990$,Reference,Brazil,2060,GDP,3557750
+million 1990$,Reference,Brazil,2065,GDP,3810530
+million 1990$,Reference,Brazil,2070,GDP,4061600
+million 1990$,Reference,Brazil,2075,GDP,4320610
+million 1990$,Reference,Brazil,2080,GDP,4575520
+million 1990$,Reference,Brazil,2085,GDP,4826540
+million 1990$,Reference,Brazil,2090,GDP,5077580
+million 1990$,Reference,Brazil,2095,GDP,5333100
+million 1990$,Reference,Brazil,2100,GDP,5592910
+million 1990$,Reference,Canada,1975,GDP,426773
+million 1990$,Reference,Canada,1990,GDP,668962
+million 1990$,Reference,Canada,2005,GDP,1005700
+million 1990$,Reference,Canada,2010,GDP,1064370
+million 1990$,Reference,Canada,2015,GDP,1189080
+million 1990$,Reference,Canada,2020,GDP,1303830
+million 1990$,Reference,Canada,2025,GDP,1419580
+million 1990$,Reference,Canada,2030,GDP,1559890
+million 1990$,Reference,Canada,2035,GDP,1715000
+million 1990$,Reference,Canada,2040,GDP,1881610
+million 1990$,Reference,Canada,2045,GDP,2051300
+million 1990$,Reference,Canada,2050,GDP,2218360
+million 1990$,Reference,Canada,2055,GDP,2386800
+million 1990$,Reference,Canada,2060,GDP,2570550
+million 1990$,Reference,Canada,2065,GDP,2775150
+million 1990$,Reference,Canada,2070,GDP,2996020
+million 1990$,Reference,Canada,2075,GDP,3223260
+million 1990$,Reference,Canada,2080,GDP,3455310
+million 1990$,Reference,Canada,2085,GDP,3686210
+million 1990$,Reference,Canada,2090,GDP,3917300
+million 1990$,Reference,Canada,2095,GDP,4150990
+million 1990$,Reference,Canada,2100,GDP,4387490
+million 1990$,Reference,Central America and Caribbean,1975,GDP,77055
+million 1990$,Reference,Central America and Caribbean,1990,GDP,113765
+million 1990$,Reference,Central America and Caribbean,2005,GDP,178918
+million 1990$,Reference,Central America and Caribbean,2010,GDP,218884
+million 1990$,Reference,Central America and Caribbean,2015,GDP,262055
+million 1990$,Reference,Central America and Caribbean,2020,GDP,300444
+million 1990$,Reference,Central America and Caribbean,2025,GDP,351967
+million 1990$,Reference,Central America and Caribbean,2030,GDP,417691
+million 1990$,Reference,Central America and Caribbean,2035,GDP,490627
+million 1990$,Reference,Central America and Caribbean,2040,GDP,574232
+million 1990$,Reference,Central America and Caribbean,2045,GDP,669118
+million 1990$,Reference,Central America and Caribbean,2050,GDP,774523
+million 1990$,Reference,Central America and Caribbean,2055,GDP,890910
+million 1990$,Reference,Central America and Caribbean,2060,GDP,1018590
+million 1990$,Reference,Central America and Caribbean,2065,GDP,1158890
+million 1990$,Reference,Central America and Caribbean,2070,GDP,1312030
+million 1990$,Reference,Central America and Caribbean,2075,GDP,1477820
+million 1990$,Reference,Central America and Caribbean,2080,GDP,1656380
+million 1990$,Reference,Central America and Caribbean,2085,GDP,1846920
+million 1990$,Reference,Central America and Caribbean,2090,GDP,2048540
+million 1990$,Reference,Central America and Caribbean,2095,GDP,2260460
+million 1990$,Reference,Central America and Caribbean,2100,GDP,2481830
+million 1990$,Reference,Central Asia,1975,GDP,82754
+million 1990$,Reference,Central Asia,1990,GDP,126205
+million 1990$,Reference,Central Asia,2005,GDP,134479
+million 1990$,Reference,Central Asia,2010,GDP,198646
+million 1990$,Reference,Central Asia,2015,GDP,258609
+million 1990$,Reference,Central Asia,2020,GDP,313001
+million 1990$,Reference,Central Asia,2025,GDP,388204
+million 1990$,Reference,Central Asia,2030,GDP,478874
+million 1990$,Reference,Central Asia,2035,GDP,569475
+million 1990$,Reference,Central Asia,2040,GDP,658210
+million 1990$,Reference,Central Asia,2045,GDP,740906
+million 1990$,Reference,Central Asia,2050,GDP,812979
+million 1990$,Reference,Central Asia,2055,GDP,880577
+million 1990$,Reference,Central Asia,2060,GDP,952740
+million 1990$,Reference,Central Asia,2065,GDP,1033220
+million 1990$,Reference,Central Asia,2070,GDP,1115340
+million 1990$,Reference,Central Asia,2075,GDP,1193020
+million 1990$,Reference,Central Asia,2080,GDP,1269420
+million 1990$,Reference,Central Asia,2085,GDP,1346720
+million 1990$,Reference,Central Asia,2090,GDP,1427180
+million 1990$,Reference,Central Asia,2095,GDP,1510520
+million 1990$,Reference,Central Asia,2100,GDP,1593500
+million 1990$,Reference,China,1975,GDP,182652
+million 1990$,Reference,China,1990,GDP,620812
+million 1990$,Reference,China,2005,GDP,2490310
+million 1990$,Reference,China,2010,GDP,4193840
+million 1990$,Reference,China,2015,GDP,6072280
+million 1990$,Reference,China,2020,GDP,8275130
+million 1990$,Reference,China,2025,GDP,10848900
+million 1990$,Reference,China,2030,GDP,13348100
+million 1990$,Reference,China,2035,GDP,15452400
+million 1990$,Reference,China,2040,GDP,17314500
+million 1990$,Reference,China,2045,GDP,18950700
+million 1990$,Reference,China,2050,GDP,20228500
+million 1990$,Reference,China,2055,GDP,21140700
+million 1990$,Reference,China,2060,GDP,21890400
+million 1990$,Reference,China,2065,GDP,22483200
+million 1990$,Reference,China,2070,GDP,22938700
+million 1990$,Reference,China,2075,GDP,23227400
+million 1990$,Reference,China,2080,GDP,23433900
+million 1990$,Reference,China,2085,GDP,23522000
+million 1990$,Reference,China,2090,GDP,23550000
+million 1990$,Reference,China,2095,GDP,23546100
+million 1990$,Reference,China,2100,GDP,23530000
+million 1990$,Reference,Colombia,1975,GDP,52859
+million 1990$,Reference,Colombia,1990,GDP,97665
+million 1990$,Reference,Colombia,2005,GDP,151684
+million 1990$,Reference,Colombia,2010,GDP,189339
+million 1990$,Reference,Colombia,2015,GDP,236902
+million 1990$,Reference,Colombia,2020,GDP,270036
+million 1990$,Reference,Colombia,2025,GDP,321853
+million 1990$,Reference,Colombia,2030,GDP,377638
+million 1990$,Reference,Colombia,2035,GDP,440354
+million 1990$,Reference,Colombia,2040,GDP,511353
+million 1990$,Reference,Colombia,2045,GDP,589451
+million 1990$,Reference,Colombia,2050,GDP,674684
+million 1990$,Reference,Colombia,2055,GDP,767180
+million 1990$,Reference,Colombia,2060,GDP,866620
+million 1990$,Reference,Colombia,2065,GDP,973176
+million 1990$,Reference,Colombia,2070,GDP,1085830
+million 1990$,Reference,Colombia,2075,GDP,1202850
+million 1990$,Reference,Colombia,2080,GDP,1324130
+million 1990$,Reference,Colombia,2085,GDP,1447770
+million 1990$,Reference,Colombia,2090,GDP,1572510
+million 1990$,Reference,Colombia,2095,GDP,1697640
+million 1990$,Reference,Colombia,2100,GDP,1822140
+million 1990$,Reference,EU-12,1975,GDP,351442
+million 1990$,Reference,EU-12,1990,GDP,529361
+million 1990$,Reference,EU-12,2005,GDP,731723
+million 1990$,Reference,EU-12,2010,GDP,849136
+million 1990$,Reference,EU-12,2015,GDP,958313
+million 1990$,Reference,EU-12,2020,GDP,1152440
+million 1990$,Reference,EU-12,2025,GDP,1315280
+million 1990$,Reference,EU-12,2030,GDP,1478050
+million 1990$,Reference,EU-12,2035,GDP,1639640
+million 1990$,Reference,EU-12,2040,GDP,1794300
+million 1990$,Reference,EU-12,2045,GDP,1934330
+million 1990$,Reference,EU-12,2050,GDP,2066070
+million 1990$,Reference,EU-12,2055,GDP,2193660
+million 1990$,Reference,EU-12,2060,GDP,2330150
+million 1990$,Reference,EU-12,2065,GDP,2475820
+million 1990$,Reference,EU-12,2070,GDP,2620120
+million 1990$,Reference,EU-12,2075,GDP,2752680
+million 1990$,Reference,EU-12,2080,GDP,2877260
+million 1990$,Reference,EU-12,2085,GDP,2997700
+million 1990$,Reference,EU-12,2090,GDP,3118030
+million 1990$,Reference,EU-12,2095,GDP,3242880
+million 1990$,Reference,EU-12,2100,GDP,3372820
+million 1990$,Reference,EU-15,1975,GDP,4711010
+million 1990$,Reference,EU-15,1990,GDP,7288400
+million 1990$,Reference,EU-15,2005,GDP,9949180
+million 1990$,Reference,EU-15,2010,GDP,10317600
+million 1990$,Reference,EU-15,2015,GDP,10847300
+million 1990$,Reference,EU-15,2020,GDP,11824000
+million 1990$,Reference,EU-15,2025,GDP,12704100
+million 1990$,Reference,EU-15,2030,GDP,13669700
+million 1990$,Reference,EU-15,2035,GDP,14723100
+million 1990$,Reference,EU-15,2040,GDP,15905000
+million 1990$,Reference,EU-15,2045,GDP,17159900
+million 1990$,Reference,EU-15,2050,GDP,18447700
+million 1990$,Reference,EU-15,2055,GDP,19799500
+million 1990$,Reference,EU-15,2060,GDP,21279900
+million 1990$,Reference,EU-15,2065,GDP,22851000
+million 1990$,Reference,EU-15,2070,GDP,24463100
+million 1990$,Reference,EU-15,2075,GDP,26080900
+million 1990$,Reference,EU-15,2080,GDP,27726400
+million 1990$,Reference,EU-15,2085,GDP,29393900
+million 1990$,Reference,EU-15,2090,GDP,31088400
+million 1990$,Reference,EU-15,2095,GDP,32811600
+million 1990$,Reference,EU-15,2100,GDP,34539700
+million 1990$,Reference,Europe_Eastern,1975,GDP,108569
+million 1990$,Reference,Europe_Eastern,1990,GDP,163162
+million 1990$,Reference,Europe_Eastern,2005,GDP,115143
+million 1990$,Reference,Europe_Eastern,2010,GDP,131294
+million 1990$,Reference,Europe_Eastern,2015,GDP,124640
+million 1990$,Reference,Europe_Eastern,2020,GDP,140321
+million 1990$,Reference,Europe_Eastern,2025,GDP,162343
+million 1990$,Reference,Europe_Eastern,2030,GDP,190478
+million 1990$,Reference,Europe_Eastern,2035,GDP,220067
+million 1990$,Reference,Europe_Eastern,2040,GDP,250197
+million 1990$,Reference,Europe_Eastern,2045,GDP,279577
+million 1990$,Reference,Europe_Eastern,2050,GDP,308158
+million 1990$,Reference,Europe_Eastern,2055,GDP,338667
+million 1990$,Reference,Europe_Eastern,2060,GDP,373374
+million 1990$,Reference,Europe_Eastern,2065,GDP,410752
+million 1990$,Reference,Europe_Eastern,2070,GDP,448078
+million 1990$,Reference,Europe_Eastern,2075,GDP,483071
+million 1990$,Reference,Europe_Eastern,2080,GDP,516517
+million 1990$,Reference,Europe_Eastern,2085,GDP,549349
+million 1990$,Reference,Europe_Eastern,2090,GDP,582154
+million 1990$,Reference,Europe_Eastern,2095,GDP,614707
+million 1990$,Reference,Europe_Eastern,2100,GDP,645733
+million 1990$,Reference,Europe_Non_EU,1975,GDP,164035
+million 1990$,Reference,Europe_Non_EU,1990,GDP,324529
+million 1990$,Reference,Europe_Non_EU,2005,GDP,516687
+million 1990$,Reference,Europe_Non_EU,2010,GDP,600092
+million 1990$,Reference,Europe_Non_EU,2015,GDP,810903
+million 1990$,Reference,Europe_Non_EU,2020,GDP,924205
+million 1990$,Reference,Europe_Non_EU,2025,GDP,1083610
+million 1990$,Reference,Europe_Non_EU,2030,GDP,1259720
+million 1990$,Reference,Europe_Non_EU,2035,GDP,1440500
+million 1990$,Reference,Europe_Non_EU,2040,GDP,1632880
+million 1990$,Reference,Europe_Non_EU,2045,GDP,1830630
+million 1990$,Reference,Europe_Non_EU,2050,GDP,2031840
+million 1990$,Reference,Europe_Non_EU,2055,GDP,2240380
+million 1990$,Reference,Europe_Non_EU,2060,GDP,2454770
+million 1990$,Reference,Europe_Non_EU,2065,GDP,2673160
+million 1990$,Reference,Europe_Non_EU,2070,GDP,2893170
+million 1990$,Reference,Europe_Non_EU,2075,GDP,3110150
+million 1990$,Reference,Europe_Non_EU,2080,GDP,3323140
+million 1990$,Reference,Europe_Non_EU,2085,GDP,3533350
+million 1990$,Reference,Europe_Non_EU,2090,GDP,3742400
+million 1990$,Reference,Europe_Non_EU,2095,GDP,3949310
+million 1990$,Reference,Europe_Non_EU,2100,GDP,4151240
+million 1990$,Reference,European Free Trade Association,1975,GDP,309556
+million 1990$,Reference,European Free Trade Association,1990,GDP,458899
+million 1990$,Reference,European Free Trade Association,2005,GDP,623971
+million 1990$,Reference,European Free Trade Association,2010,GDP,676971
+million 1990$,Reference,European Free Trade Association,2015,GDP,736409
+million 1990$,Reference,European Free Trade Association,2020,GDP,801835
+million 1990$,Reference,European Free Trade Association,2025,GDP,870263
+million 1990$,Reference,European Free Trade Association,2030,GDP,941537
+million 1990$,Reference,European Free Trade Association,2035,GDP,1016370
+million 1990$,Reference,European Free Trade Association,2040,GDP,1099420
+million 1990$,Reference,European Free Trade Association,2045,GDP,1191380
+million 1990$,Reference,European Free Trade Association,2050,GDP,1294470
+million 1990$,Reference,European Free Trade Association,2055,GDP,1408210
+million 1990$,Reference,European Free Trade Association,2060,GDP,1530860
+million 1990$,Reference,European Free Trade Association,2065,GDP,1662420
+million 1990$,Reference,European Free Trade Association,2070,GDP,1801330
+million 1990$,Reference,European Free Trade Association,2075,GDP,1943320
+million 1990$,Reference,European Free Trade Association,2080,GDP,2088570
+million 1990$,Reference,European Free Trade Association,2085,GDP,2234440
+million 1990$,Reference,European Free Trade Association,2090,GDP,2378960
+million 1990$,Reference,European Free Trade Association,2095,GDP,2522020
+million 1990$,Reference,European Free Trade Association,2100,GDP,2664360
+million 1990$,Reference,India,1975,GDP,157355
+million 1990$,Reference,India,1990,GDP,306659
+million 1990$,Reference,India,2005,GDP,730410
+million 1990$,Reference,India,2010,GDP,1088920
+million 1990$,Reference,India,2015,GDP,1513410
+million 1990$,Reference,India,2020,GDP,2165300
+million 1990$,Reference,India,2025,GDP,3076450
+million 1990$,Reference,India,2030,GDP,3993770
+million 1990$,Reference,India,2035,GDP,5037600
+million 1990$,Reference,India,2040,GDP,6232590
+million 1990$,Reference,India,2045,GDP,7561360
+million 1990$,Reference,India,2050,GDP,9009270
+million 1990$,Reference,India,2055,GDP,10577700
+million 1990$,Reference,India,2060,GDP,12260800
+million 1990$,Reference,India,2065,GDP,14036200
+million 1990$,Reference,India,2070,GDP,15868000
+million 1990$,Reference,India,2075,GDP,17725900
+million 1990$,Reference,India,2080,GDP,19589300
+million 1990$,Reference,India,2085,GDP,21439600
+million 1990$,Reference,India,2090,GDP,23273900
+million 1990$,Reference,India,2095,GDP,25080200
+million 1990$,Reference,India,2100,GDP,26823000
+million 1990$,Reference,Indonesia,1975,GDP,68394
+million 1990$,Reference,Indonesia,1990,GDP,204381
+million 1990$,Reference,Indonesia,2005,GDP,376810
+million 1990$,Reference,Indonesia,2010,GDP,498117
+million 1990$,Reference,Indonesia,2015,GDP,651844
+million 1990$,Reference,Indonesia,2020,GDP,837337
+million 1990$,Reference,Indonesia,2025,GDP,1084690
+million 1990$,Reference,Indonesia,2030,GDP,1396820
+million 1990$,Reference,Indonesia,2035,GDP,1735420
+million 1990$,Reference,Indonesia,2040,GDP,2109710
+million 1990$,Reference,Indonesia,2045,GDP,2503020
+million 1990$,Reference,Indonesia,2050,GDP,2906020
+million 1990$,Reference,Indonesia,2055,GDP,3320200
+million 1990$,Reference,Indonesia,2060,GDP,3740320
+million 1990$,Reference,Indonesia,2065,GDP,4158710
+million 1990$,Reference,Indonesia,2070,GDP,4565380
+million 1990$,Reference,Indonesia,2075,GDP,4965170
+million 1990$,Reference,Indonesia,2080,GDP,5360460
+million 1990$,Reference,Indonesia,2085,GDP,5750340
+million 1990$,Reference,Indonesia,2090,GDP,6133380
+million 1990$,Reference,Indonesia,2095,GDP,6508890
+million 1990$,Reference,Indonesia,2100,GDP,6875050
+million 1990$,Reference,Japan,1975,GDP,1539700
+million 1990$,Reference,Japan,1990,GDP,3102790
+million 1990$,Reference,Japan,2005,GDP,3741800
+million 1990$,Reference,Japan,2010,GDP,3760140
+million 1990$,Reference,Japan,2015,GDP,3955610
+million 1990$,Reference,Japan,2020,GDP,4147900
+million 1990$,Reference,Japan,2025,GDP,4278670
+million 1990$,Reference,Japan,2030,GDP,4479100
+million 1990$,Reference,Japan,2035,GDP,4628560
+million 1990$,Reference,Japan,2040,GDP,4746960
+million 1990$,Reference,Japan,2045,GDP,4875840
+million 1990$,Reference,Japan,2050,GDP,5000670
+million 1990$,Reference,Japan,2055,GDP,5140410
+million 1990$,Reference,Japan,2060,GDP,5293580
+million 1990$,Reference,Japan,2065,GDP,5443270
+million 1990$,Reference,Japan,2070,GDP,5588120
+million 1990$,Reference,Japan,2075,GDP,5723130
+million 1990$,Reference,Japan,2080,GDP,5852170
+million 1990$,Reference,Japan,2085,GDP,5982760
+million 1990$,Reference,Japan,2090,GDP,6117430
+million 1990$,Reference,Japan,2095,GDP,6253900
+million 1990$,Reference,Japan,2100,GDP,6388300
+million 1990$,Reference,Mexico,1975,GDP,242424
+million 1990$,Reference,Mexico,1990,GDP,337810
+million 1990$,Reference,Mexico,2005,GDP,648288
+million 1990$,Reference,Mexico,2010,GDP,697805
+million 1990$,Reference,Mexico,2015,GDP,807043
+million 1990$,Reference,Mexico,2020,GDP,895798
+million 1990$,Reference,Mexico,2025,GDP,1022950
+million 1990$,Reference,Mexico,2030,GDP,1184840
+million 1990$,Reference,Mexico,2035,GDP,1358580
+million 1990$,Reference,Mexico,2040,GDP,1542790
+million 1990$,Reference,Mexico,2045,GDP,1742400
+million 1990$,Reference,Mexico,2050,GDP,1961370
+million 1990$,Reference,Mexico,2055,GDP,2197510
+million 1990$,Reference,Mexico,2060,GDP,2445580
+million 1990$,Reference,Mexico,2065,GDP,2712030
+million 1990$,Reference,Mexico,2070,GDP,2992680
+million 1990$,Reference,Mexico,2075,GDP,3289730
+million 1990$,Reference,Mexico,2080,GDP,3601360
+million 1990$,Reference,Mexico,2085,GDP,3925690
+million 1990$,Reference,Mexico,2090,GDP,4264380
+million 1990$,Reference,Mexico,2095,GDP,4618420
+million 1990$,Reference,Mexico,2100,GDP,4985320
+million 1990$,Reference,Middle East,1975,GDP,396427
+million 1990$,Reference,Middle East,1990,GDP,643521
+million 1990$,Reference,Middle East,2005,GDP,1162480
+million 1990$,Reference,Middle East,2010,GDP,1426150
+million 1990$,Reference,Middle East,2015,GDP,1668130
+million 1990$,Reference,Middle East,2020,GDP,1845010
+million 1990$,Reference,Middle East,2025,GDP,2092620
+million 1990$,Reference,Middle East,2030,GDP,2509610
+million 1990$,Reference,Middle East,2035,GDP,2948200
+million 1990$,Reference,Middle East,2040,GDP,3413380
+million 1990$,Reference,Middle East,2045,GDP,3887390
+million 1990$,Reference,Middle East,2050,GDP,4363150
+million 1990$,Reference,Middle East,2055,GDP,4863140
+million 1990$,Reference,Middle East,2060,GDP,5402830
+million 1990$,Reference,Middle East,2065,GDP,5984320
+million 1990$,Reference,Middle East,2070,GDP,6592060
+million 1990$,Reference,Middle East,2075,GDP,7219280
+million 1990$,Reference,Middle East,2080,GDP,7873080
+million 1990$,Reference,Middle East,2085,GDP,8551790
+million 1990$,Reference,Middle East,2090,GDP,9261140
+million 1990$,Reference,Middle East,2095,GDP,9997160
+million 1990$,Reference,Middle East,2100,GDP,10748800
+million 1990$,Reference,Pakistan,1975,GDP,21183
+million 1990$,Reference,Pakistan,1990,GDP,51831
+million 1990$,Reference,Pakistan,2005,GDP,97328
+million 1990$,Reference,Pakistan,2010,GDP,115119
+million 1990$,Reference,Pakistan,2015,GDP,140118
+million 1990$,Reference,Pakistan,2020,GDP,171875
+million 1990$,Reference,Pakistan,2025,GDP,199177
+million 1990$,Reference,Pakistan,2030,GDP,253050
+million 1990$,Reference,Pakistan,2035,GDP,321664
+million 1990$,Reference,Pakistan,2040,GDP,409228
+million 1990$,Reference,Pakistan,2045,GDP,517614
+million 1990$,Reference,Pakistan,2050,GDP,648268
+million 1990$,Reference,Pakistan,2055,GDP,803577
+million 1990$,Reference,Pakistan,2060,GDP,986649
+million 1990$,Reference,Pakistan,2065,GDP,1200980
+million 1990$,Reference,Pakistan,2070,GDP,1449070
+million 1990$,Reference,Pakistan,2075,GDP,1727160
+million 1990$,Reference,Pakistan,2080,GDP,2031510
+million 1990$,Reference,Pakistan,2085,GDP,2359960
+million 1990$,Reference,Pakistan,2090,GDP,2712320
+million 1990$,Reference,Pakistan,2095,GDP,3088930
+million 1990$,Reference,Pakistan,2100,GDP,3486100
+million 1990$,Reference,Russia,1975,GDP,652340
+million 1990$,Reference,Russia,1990,GDP,932707
+million 1990$,Reference,Russia,2005,GDP,845254
+million 1990$,Reference,Russia,2010,GDP,1005950
+million 1990$,Reference,Russia,2015,GDP,1093850
+million 1990$,Reference,Russia,2020,GDP,1179500
+million 1990$,Reference,Russia,2025,GDP,1297030
+million 1990$,Reference,Russia,2030,GDP,1499980
+million 1990$,Reference,Russia,2035,GDP,1693940
+million 1990$,Reference,Russia,2040,GDP,1869240
+million 1990$,Reference,Russia,2045,GDP,2011940
+million 1990$,Reference,Russia,2050,GDP,2127860
+million 1990$,Reference,Russia,2055,GDP,2247990
+million 1990$,Reference,Russia,2060,GDP,2404780
+million 1990$,Reference,Russia,2065,GDP,2570510
+million 1990$,Reference,Russia,2070,GDP,2732740
+million 1990$,Reference,Russia,2075,GDP,2877540
+million 1990$,Reference,Russia,2080,GDP,3007580
+million 1990$,Reference,Russia,2085,GDP,3132770
+million 1990$,Reference,Russia,2090,GDP,3259680
+million 1990$,Reference,Russia,2095,GDP,3387310
+million 1990$,Reference,Russia,2100,GDP,3504990
+million 1990$,Reference,South Africa,1975,GDP,104957
+million 1990$,Reference,South Africa,1990,GDP,147056
+million 1990$,Reference,South Africa,2005,GDP,212566
+million 1990$,Reference,South Africa,2010,GDP,247608
+million 1990$,Reference,South Africa,2015,GDP,276336
+million 1990$,Reference,South Africa,2020,GDP,291286
+million 1990$,Reference,South Africa,2025,GDP,324412
+million 1990$,Reference,South Africa,2030,GDP,385119
+million 1990$,Reference,South Africa,2035,GDP,448409
+million 1990$,Reference,South Africa,2040,GDP,514997
+million 1990$,Reference,South Africa,2045,GDP,583375
+million 1990$,Reference,South Africa,2050,GDP,652830
+million 1990$,Reference,South Africa,2055,GDP,725131
+million 1990$,Reference,South Africa,2060,GDP,801736
+million 1990$,Reference,South Africa,2065,GDP,880090
+million 1990$,Reference,South Africa,2070,GDP,958535
+million 1990$,Reference,South Africa,2075,GDP,1036880
+million 1990$,Reference,South Africa,2080,GDP,1113760
+million 1990$,Reference,South Africa,2085,GDP,1188510
+million 1990$,Reference,South Africa,2090,GDP,1260960
+million 1990$,Reference,South Africa,2095,GDP,1330340
+million 1990$,Reference,South Africa,2100,GDP,1395430
+million 1990$,Reference,South America_Northern,1975,GDP,129655
+million 1990$,Reference,South America_Northern,1990,GDP,118067
+million 1990$,Reference,South America_Northern,2005,GDP,164925
+million 1990$,Reference,South America_Northern,2010,GDP,197957
+million 1990$,Reference,South America_Northern,2015,GDP,200478
+million 1990$,Reference,South America_Northern,2020,GDP,81659
+million 1990$,Reference,South America_Northern,2025,GDP,80238
+million 1990$,Reference,South America_Northern,2030,GDP,93584
+million 1990$,Reference,South America_Northern,2035,GDP,108348
+million 1990$,Reference,South America_Northern,2040,GDP,124241
+million 1990$,Reference,South America_Northern,2045,GDP,141698
+million 1990$,Reference,South America_Northern,2050,GDP,160673
+million 1990$,Reference,South America_Northern,2055,GDP,181138
+million 1990$,Reference,South America_Northern,2060,GDP,202917
+million 1990$,Reference,South America_Northern,2065,GDP,225221
+million 1990$,Reference,South America_Northern,2070,GDP,247734
+million 1990$,Reference,South America_Northern,2075,GDP,270549
+million 1990$,Reference,South America_Northern,2080,GDP,294004
+million 1990$,Reference,South America_Northern,2085,GDP,317981
+million 1990$,Reference,South America_Northern,2090,GDP,342108
+million 1990$,Reference,South America_Northern,2095,GDP,366071
+million 1990$,Reference,South America_Northern,2100,GDP,389868
+million 1990$,Reference,South America_Southern,1975,GDP,97808
+million 1990$,Reference,South America_Southern,1990,GDP,143309
+million 1990$,Reference,South America_Southern,2005,GDP,269065
+million 1990$,Reference,South America_Southern,2010,GDP,340130
+million 1990$,Reference,South America_Southern,2015,GDP,419481
+million 1990$,Reference,South America_Southern,2020,GDP,481164
+million 1990$,Reference,South America_Southern,2025,GDP,567348
+million 1990$,Reference,South America_Southern,2030,GDP,677449
+million 1990$,Reference,South America_Southern,2035,GDP,792110
+million 1990$,Reference,South America_Southern,2040,GDP,917007
+million 1990$,Reference,South America_Southern,2045,GDP,1051850
+million 1990$,Reference,South America_Southern,2050,GDP,1194950
+million 1990$,Reference,South America_Southern,2055,GDP,1345470
+million 1990$,Reference,South America_Southern,2060,GDP,1502820
+million 1990$,Reference,South America_Southern,2065,GDP,1668360
+million 1990$,Reference,South America_Southern,2070,GDP,1841000
+million 1990$,Reference,South America_Southern,2075,GDP,2018790
+million 1990$,Reference,South America_Southern,2080,GDP,2201560
+million 1990$,Reference,South America_Southern,2085,GDP,2388200
+million 1990$,Reference,South America_Southern,2090,GDP,2578090
+million 1990$,Reference,South America_Southern,2095,GDP,2771350
+million 1990$,Reference,South America_Southern,2100,GDP,2967350
+million 1990$,Reference,South Asia,1975,GDP,24869
+million 1990$,Reference,South Asia,1990,GDP,49977
+million 1990$,Reference,South Asia,2005,GDP,100536
+million 1990$,Reference,South Asia,2010,GDP,136817
+million 1990$,Reference,South Asia,2015,GDP,183569
+million 1990$,Reference,South Asia,2020,GDP,244604
+million 1990$,Reference,South Asia,2025,GDP,326222
+million 1990$,Reference,South Asia,2030,GDP,421441
+million 1990$,Reference,South Asia,2035,GDP,529481
+million 1990$,Reference,South Asia,2040,GDP,657973
+million 1990$,Reference,South Asia,2045,GDP,807944
+million 1990$,Reference,South Asia,2050,GDP,981974
+million 1990$,Reference,South Asia,2055,GDP,1184000
+million 1990$,Reference,South Asia,2060,GDP,1417550
+million 1990$,Reference,South Asia,2065,GDP,1683980
+million 1990$,Reference,South Asia,2070,GDP,1984950
+million 1990$,Reference,South Asia,2075,GDP,2323920
+million 1990$,Reference,South Asia,2080,GDP,2699690
+million 1990$,Reference,South Asia,2085,GDP,3113190
+million 1990$,Reference,South Asia,2090,GDP,3565740
+million 1990$,Reference,South Asia,2095,GDP,4059630
+million 1990$,Reference,South Asia,2100,GDP,4593920
+million 1990$,Reference,South Korea,1975,GDP,66098
+million 1990$,Reference,South Korea,1990,GDP,239387
+million 1990$,Reference,South Korea,2005,GDP,590217
+million 1990$,Reference,South Korea,2010,GDP,722014
+million 1990$,Reference,South Korea,2015,GDP,836983
+million 1990$,Reference,South Korea,2020,GDP,961472
+million 1990$,Reference,South Korea,2025,GDP,1109400
+million 1990$,Reference,South Korea,2030,GDP,1257690
+million 1990$,Reference,South Korea,2035,GDP,1389990
+million 1990$,Reference,South Korea,2040,GDP,1505590
+million 1990$,Reference,South Korea,2045,GDP,1607110
+million 1990$,Reference,South Korea,2050,GDP,1692610
+million 1990$,Reference,South Korea,2055,GDP,1769370
+million 1990$,Reference,South Korea,2060,GDP,1824880
+million 1990$,Reference,South Korea,2065,GDP,1868720
+million 1990$,Reference,South Korea,2070,GDP,1912740
+million 1990$,Reference,South Korea,2075,GDP,1947480
+million 1990$,Reference,South Korea,2080,GDP,1980690
+million 1990$,Reference,South Korea,2085,GDP,2009770
+million 1990$,Reference,South Korea,2090,GDP,2033320
+million 1990$,Reference,South Korea,2095,GDP,2051770
+million 1990$,Reference,South Korea,2100,GDP,2066440
+million 1990$,Reference,Southeast Asia,1975,GDP,133096
+million 1990$,Reference,Southeast Asia,1990,GDP,295563
+million 1990$,Reference,Southeast Asia,2005,GDP,639163
+million 1990$,Reference,Southeast Asia,2010,GDP,819557
+million 1990$,Reference,Southeast Asia,2015,GDP,1030700
+million 1990$,Reference,Southeast Asia,2020,GDP,1298860
+million 1990$,Reference,Southeast Asia,2025,GDP,1632680
+million 1990$,Reference,Southeast Asia,2030,GDP,1993690
+million 1990$,Reference,Southeast Asia,2035,GDP,2379230
+million 1990$,Reference,Southeast Asia,2040,GDP,2805640
+million 1990$,Reference,Southeast Asia,2045,GDP,3269030
+million 1990$,Reference,Southeast Asia,2050,GDP,3763540
+million 1990$,Reference,Southeast Asia,2055,GDP,4294140
+million 1990$,Reference,Southeast Asia,2060,GDP,4859660
+million 1990$,Reference,Southeast Asia,2065,GDP,5458280
+million 1990$,Reference,Southeast Asia,2070,GDP,6081140
+million 1990$,Reference,Southeast Asia,2075,GDP,6723630
+million 1990$,Reference,Southeast Asia,2080,GDP,7380560
+million 1990$,Reference,Southeast Asia,2085,GDP,8045280
+million 1990$,Reference,Southeast Asia,2090,GDP,8718460
+million 1990$,Reference,Southeast Asia,2095,GDP,9399050
+million 1990$,Reference,Southeast Asia,2100,GDP,10083600
+million 1990$,Reference,Taiwan,1975,GDP,30075
+million 1990$,Reference,Taiwan,1990,GDP,102832
+million 1990$,Reference,Taiwan,2005,GDP,239736
+million 1990$,Reference,Taiwan,2010,GDP,295761
+million 1990$,Reference,Taiwan,2015,GDP,335788
+million 1990$,Reference,Taiwan,2020,GDP,378960
+million 1990$,Reference,Taiwan,2025,GDP,423743
+million 1990$,Reference,Taiwan,2030,GDP,461735
+million 1990$,Reference,Taiwan,2035,GDP,497596
+million 1990$,Reference,Taiwan,2040,GDP,530287
+million 1990$,Reference,Taiwan,2045,GDP,555518
+million 1990$,Reference,Taiwan,2050,GDP,571564
+million 1990$,Reference,Taiwan,2055,GDP,580183
+million 1990$,Reference,Taiwan,2060,GDP,588347
+million 1990$,Reference,Taiwan,2065,GDP,616171
+million 1990$,Reference,Taiwan,2070,GDP,643784
+million 1990$,Reference,Taiwan,2075,GDP,668692
+million 1990$,Reference,Taiwan,2080,GDP,690003
+million 1990$,Reference,Taiwan,2085,GDP,705622
+million 1990$,Reference,Taiwan,2090,GDP,716588
+million 1990$,Reference,Taiwan,2095,GDP,723291
+million 1990$,Reference,Taiwan,2100,GDP,726485
+million 1990$,Reference,USA,1975,GDP,3619360
+million 1990$,Reference,USA,1990,GDP,6019980
+million 1990$,Reference,USA,2005,GDP,9574160
+million 1990$,Reference,USA,2010,GDP,9936530
+million 1990$,Reference,USA,2015,GDP,11061600
+million 1990$,Reference,USA,2020,GDP,12301600
+million 1990$,Reference,USA,2025,GDP,13414800
+million 1990$,Reference,USA,2030,GDP,14734100
+million 1990$,Reference,USA,2035,GDP,15943800
+million 1990$,Reference,USA,2040,GDP,17089300
+million 1990$,Reference,USA,2045,GDP,18170900
+million 1990$,Reference,USA,2050,GDP,19167600
+million 1990$,Reference,USA,2055,GDP,20169400
+million 1990$,Reference,USA,2060,GDP,21221200
+million 1990$,Reference,USA,2065,GDP,22321600
+million 1990$,Reference,USA,2070,GDP,23378100
+million 1990$,Reference,USA,2075,GDP,24381800
+million 1990$,Reference,USA,2080,GDP,25391300
+million 1990$,Reference,USA,2085,GDP,26352400
+million 1990$,Reference,USA,2090,GDP,27274000
+million 1990$,Reference,USA,2095,GDP,28165300
+million 1990$,Reference,USA,2100,GDP,29020900

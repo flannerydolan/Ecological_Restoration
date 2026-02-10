@@ -1,0 +1,97 @@
+"","year","scenario","scenario_family","PercentChange"
+"1",2025,"Farm","Nature-Friendly Farming",-1.83764072783591
+"2",2025,"Farm_plus","Nature-Friendly Farming",-0.803770990608905
+"3",2025,"NPC_bio","Nations Prioritize Conservation",4.21325886889717
+"4",2025,"NPC_carb","Nations Prioritize Conservation",2.65050808729752
+"5",2025,"Press","People Reduce Pressure",-7.02448046735203
+"6",2025,"Press_plus","People Reduce Pressure",-3.58032946030912
+"7",2030,"Farm","Nature-Friendly Farming",-5.34698622594791
+"8",2030,"Farm_plus","Nature-Friendly Farming",1.91792980416583
+"9",2030,"NPC_bio","Nations Prioritize Conservation",4.59504412054504
+"10",2030,"NPC_carb","Nations Prioritize Conservation",2.97824761336438
+"11",2030,"Press","People Reduce Pressure",-9.84564479454006
+"12",2030,"Press_plus","People Reduce Pressure",-6.06413976800617
+"13",2035,"Farm","Nature-Friendly Farming",-7.28993071918473
+"14",2035,"Farm_plus","Nature-Friendly Farming",8.90963943707934
+"15",2035,"NPC_bio","Nations Prioritize Conservation",4.99561585022713
+"16",2035,"NPC_carb","Nations Prioritize Conservation",3.30024732319057
+"17",2035,"Press","People Reduce Pressure",-11.927454594938
+"18",2035,"Press_plus","People Reduce Pressure",-7.71626478718333
+"19",2040,"Farm","Nature-Friendly Farming",-9.1550463791654
+"20",2040,"Farm_plus","Nature-Friendly Farming",17.7193474200734
+"21",2040,"NPC_bio","Nations Prioritize Conservation",5.39013371898765
+"22",2040,"NPC_carb","Nations Prioritize Conservation",3.60562919194663
+"23",2040,"Press","People Reduce Pressure",-13.7589329359981
+"24",2040,"Press_plus","People Reduce Pressure",-9.09626664399027
+"25",2045,"Farm","Nature-Friendly Farming",-10.7965317548987
+"26",2045,"Farm_plus","Nature-Friendly Farming",27.9970581073432
+"27",2045,"NPC_bio","Nations Prioritize Conservation",5.83972749494497
+"28",2045,"NPC_carb","Nations Prioritize Conservation",3.92669901829936
+"29",2045,"Press","People Reduce Pressure",-15.3669582867667
+"30",2045,"Press_plus","People Reduce Pressure",-10.2046578259506
+"31",2050,"Farm","Nature-Friendly Farming",-12.4782602985019
+"32",2050,"Farm_plus","Nature-Friendly Farming",39.7569982599468
+"33",2050,"NPC_bio","Nations Prioritize Conservation",6.25307470008138
+"34",2050,"NPC_carb","Nations Prioritize Conservation",4.20769502794285
+"35",2050,"Press","People Reduce Pressure",-16.7491745857773
+"36",2050,"Press_plus","People Reduce Pressure",-10.9901527212393
+"37",2055,"Farm","Nature-Friendly Farming",-12.5098321201739
+"38",2055,"Farm_plus","Nature-Friendly Farming",50.857919729615
+"39",2055,"NPC_bio","Nations Prioritize Conservation",6.8530698215344
+"40",2055,"NPC_carb","Nations Prioritize Conservation",4.58700607364728
+"41",2055,"Press","People Reduce Pressure",-17.5430683577871
+"42",2055,"Press_plus","People Reduce Pressure",-10.584019309738
+"43",2060,"Farm","Nature-Friendly Farming",-13.8555622001427
+"44",2060,"Farm_plus","Nature-Friendly Farming",58.2603139455527
+"45",2060,"NPC_bio","Nations Prioritize Conservation",7.37824894071855
+"46",2060,"NPC_carb","Nations Prioritize Conservation",4.91252332757422
+"47",2060,"Press","People Reduce Pressure",-18.2924059911068
+"48",2060,"Press_plus","People Reduce Pressure",-9.9035672102178
+"49",2065,"Farm","Nature-Friendly Farming",-14.0661655256253
+"50",2065,"Farm_plus","Nature-Friendly Farming",67.1268359643064
+"51",2065,"NPC_bio","Nations Prioritize Conservation",7.94571761580423
+"52",2065,"NPC_carb","Nations Prioritize Conservation",5.26798697170005
+"53",2065,"Press","People Reduce Pressure",-18.9370173546245
+"54",2065,"Press_plus","People Reduce Pressure",-8.8199791151061
+"55",2070,"Farm","Nature-Friendly Farming",-15.0604357446877
+"56",2070,"Farm_plus","Nature-Friendly Farming",77.7295228951918
+"57",2070,"NPC_bio","Nations Prioritize Conservation",8.49983139524242
+"58",2070,"NPC_carb","Nations Prioritize Conservation",5.6765443754244
+"59",2070,"Press","People Reduce Pressure",-19.4740924501179
+"60",2070,"Press_plus","People Reduce Pressure",-7.27600729888684
+"61",2075,"Farm","Nature-Friendly Farming",-15.2834107553122
+"62",2075,"Farm_plus","Nature-Friendly Farming",90.4495024550992
+"63",2075,"NPC_bio","Nations Prioritize Conservation",8.97207136827859
+"64",2075,"NPC_carb","Nations Prioritize Conservation",6.05691513149704
+"65",2075,"Press","People Reduce Pressure",-19.9282596691923
+"66",2075,"Press_plus","People Reduce Pressure",-5.2364400278213
+"67",2080,"Farm","Nature-Friendly Farming",-15.4115822060263
+"68",2080,"Farm_plus","Nature-Friendly Farming",105.152720655941
+"69",2080,"NPC_bio","Nations Prioritize Conservation",9.42015328097077
+"70",2080,"NPC_carb","Nations Prioritize Conservation",6.44744608804275
+"71",2080,"Press","People Reduce Pressure",-20.2874942243273
+"72",2080,"Press_plus","People Reduce Pressure",-2.54312615571842
+"73",2085,"Farm","Nature-Friendly Farming",-15.4306118226092
+"74",2085,"Farm_plus","Nature-Friendly Farming",122.018803689494
+"75",2085,"NPC_bio","Nations Prioritize Conservation",9.81612509921789
+"76",2085,"NPC_carb","Nations Prioritize Conservation",6.83628921737987
+"77",2085,"Press","People Reduce Pressure",-20.5779261193498
+"78",2085,"Press_plus","People Reduce Pressure",0.854105932043496
+"79",2090,"Farm","Nature-Friendly Farming",-15.3573178605017
+"80",2090,"Farm_plus","Nature-Friendly Farming",140.943223988786
+"81",2090,"NPC_bio","Nations Prioritize Conservation",10.1681957628087
+"82",2090,"NPC_carb","Nations Prioritize Conservation",7.18509595732727
+"83",2090,"Press","People Reduce Pressure",-20.8043418321982
+"84",2090,"Press_plus","People Reduce Pressure",5.08031116850311
+"85",2095,"Farm","Nature-Friendly Farming",-15.2688281558719
+"86",2095,"Farm_plus","Nature-Friendly Farming",159.773984132131
+"87",2095,"NPC_bio","Nations Prioritize Conservation",10.4460521387271
+"88",2095,"NPC_carb","Nations Prioritize Conservation",7.43387799748604
+"89",2095,"Press","People Reduce Pressure",-20.972649705453
+"90",2095,"Press_plus","People Reduce Pressure",10.0552053879076
+"91",2100,"Farm","Nature-Friendly Farming",-15.2045628018346
+"92",2100,"Farm_plus","Nature-Friendly Farming",179.677330988416
+"93",2100,"NPC_bio","Nations Prioritize Conservation",10.6642690165181
+"94",2100,"NPC_carb","Nations Prioritize Conservation",7.61000045778043
+"95",2100,"Press","People Reduce Pressure",-21.0783171693255
+"96",2100,"Press_plus","People Reduce Pressure",16.152940985722

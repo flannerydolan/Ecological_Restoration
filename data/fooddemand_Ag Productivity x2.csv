@@ -1,0 +1,1409 @@
+Units,scenario,region,gcam-consumer,nodeinput,input,year,value
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,22.9467
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,34.2103
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,57.9168
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,75.6817
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,81.7832
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,95.2598
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,112.3
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,134.639
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,159.708
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,188.361
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,220.389
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,255.272
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,292.078
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,330.451
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,369.5
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,408.325
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,445.963
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,481.441
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,514.149
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,543.6
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,569.652
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,592.092
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,44.1407
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,67.2717
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,105.843
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,123.895
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,149.012
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,165.957
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,181.791
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,195.101
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,206.647
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,216.174
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,223.909
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,230.133
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,235.177
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,239.255
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,242.598
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,245.365
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,247.621
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,249.284
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,250.337
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,250.74
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,250.596
+Pcal/yr,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,249.896
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,16.286
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,30.7199
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,51.3505
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,66.7648
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,80.7423
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,92.1867
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,103.492
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,116.567
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,128.874
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,140.572
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,151.514
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,161.429
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,170.277
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,178.102
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,184.853
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,190.328
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,194.574
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,197.823
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,200.241
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,202.001
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,203.094
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,203.586
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,54.5705
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,98.0733
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,128.911
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,132.977
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,138.846
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,146.306
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,152.926
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,158.253
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,162.969
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,167.135
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,170.667
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,173.331
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,175.126
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,176.063
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,176.263
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,175.752
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,174.639
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,173.124
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,171.301
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,169.286
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,167.038
+Pcal/yr,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,164.625
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,8.64866
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,13.3899
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,23.4411
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,34.8298
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,47.0008
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,52.801
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,61.6163
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,72.6735
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,84.6313
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,98.6365
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,114.854
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,133.171
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,153.035
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,174.071
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,195.854
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,217.861
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,239.467
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,260.366
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,280.214
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,298.549
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,315.139
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,329.828
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,30.3187
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,45.009
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,66.454
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,75.9178
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,83.3973
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,93.4893
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,102.651
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,111.091
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,119.203
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,126.527
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,132.758
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,138.058
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,142.446
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,146.133
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,149.339
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,152.137
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,154.479
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,156.477
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,158.137
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,159.32
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,160.046
+Pcal/yr,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,160.326
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,32.8106
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,46.9265
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,81.3673
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,113.358
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,140.089
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,158.323
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,184.993
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,226.888
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,274.315
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,328.312
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,388.761
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,455.206
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,525.601
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,598.999
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,674.277
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,749.64
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,823.249
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,893.597
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,959.383
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,1019.92
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,1074.88
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,1124.09
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,1975,76.6074
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,1990,135.7
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2005,211.468
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2010,253.525
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2015,294.186
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2020,330.524
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2025,365.595
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2030,395.928
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2035,425.283
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2040,453.036
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2045,479.096
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2050,503.605
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2055,525.007
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2060,543.921
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2065,561.431
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2070,577.435
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2075,591.734
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2080,604.245
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2085,614.749
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2090,623.3
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2095,630.175
+Pcal/yr,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2100,635.536
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,15.9534
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,18.8781
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,22.4955
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,25.9407
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,29.4018
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,30.0342
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,32.2629
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,34.3413
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,36.2288
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,37.9082
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,39.3437
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,40.5998
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,41.6511
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,42.513
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,43.2176
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,43.7387
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,44.0785
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,44.2609
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,44.3442
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,44.3457
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,44.2658
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,44.1105
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,1975,12.9603
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,1990,15.9662
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2005,16.5584
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2010,20.962
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2015,19.543
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2020,20.3102
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2025,20.7739
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2030,21.1847
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2035,21.5433
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2040,21.8555
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2045,22.0865
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2050,22.2383
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2055,22.3071
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2060,22.2954
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2065,22.2298
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2070,22.0983
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2075,21.9072
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2080,21.6622
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.3934
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.1068
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2095,20.8035
+Pcal/yr,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2100,20.4869
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,10.4373
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,13.658
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,15.98
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,19.9599
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,22.609
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,24.5858
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,26.6093
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,28.5383
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,30.3823
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,32.2153
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,34.0517
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,35.8356
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,37.5384
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,39.1957
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,40.7079
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,42.0589
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,43.2243
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,44.1909
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,44.9376
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,45.4454
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,45.701
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,45.7254
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,1975,5.81307
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,1990,6.77565
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2005,8.80556
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2010,8.82462
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2015,10.129
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2020,10.8368
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2025,11.529
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2030,12.1816
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2035,12.8011
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2040,13.4034
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2045,13.9925
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2050,14.5634
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2055,15.1037
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2060,15.6022
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2065,16.0223
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2070,16.3688
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2075,16.645
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2080,16.8457
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2085,16.9657
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2090,16.9949
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2095,16.9273
+Pcal/yr,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2100,16.7748
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,36.8167
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,65.5723
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,105.086
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,131.092
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,151.882
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,159.356
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,168.648
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,178.245
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,186.268
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,193.28
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,199.161
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,203.728
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,206.97
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,209.153
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,210.181
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,210.208
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,209.404
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,207.789
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,205.518
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,202.805
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,199.791
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,196.543
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,1975,50.9861
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,1990,68.5027
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2005,89.6834
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2010,87.81
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2015,85.7922
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2020,88.9941
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2025,91.1591
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2030,92.6407
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2035,93.7031
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2040,94.2996
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2045,94.4479
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2050,94.0913
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2055,93.1882
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2060,91.8868
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2065,90.2384
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2070,88.2886
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2075,86.0635
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2080,83.6641
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2085,81.1553
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2090,78.6134
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2095,76.0837
+Pcal/yr,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2100,73.5887
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,16.3277
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,20.6267
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,25.1027
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,24.8584
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,26.7666
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,28.4803
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,30.1679
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,31.8883
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,33.5605
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,35.2162
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,36.8424
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,38.4277
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,39.9469
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,41.4621
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,42.9002
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,44.238
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,45.4388
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,46.4714
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,47.2983
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,47.9146
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,48.2791
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,48.3934
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,1975,8.43069
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,1990,10.1678
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2005,15.4598
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2010,15.3115
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2015,14.237
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2020,14.9709
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2025,15.6934
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2030,16.3534
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2035,16.9557
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2040,17.5327
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2045,18.1043
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2050,18.6737
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2055,19.2252
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2060,19.7525
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2065,20.2064
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2070,20.5906
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2075,20.9057
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2080,21.1392
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.2803
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.3262
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2095,21.2547
+Pcal/yr,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2100,21.0701
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,12.2096
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,17.6149
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,27.7527
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,36.8303
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,43.9758
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,48.0453
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,52.4729
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,57.2708
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,61.8651
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,66.343
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,70.6219
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,74.5744
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,78.1114
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,81.2274
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,84.0304
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,86.5142
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,88.6416
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,90.4302
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,91.8538
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,92.952
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,93.7539
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,94.3078
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,1975,18.4841
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,1990,24.9091
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2005,30.6859
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2010,35.0233
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2015,38.1217
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2020,39.6014
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2025,40.7687
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2030,41.6523
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2035,42.343
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2040,42.8126
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2045,43.0817
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2050,43.1542
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2055,43.0454
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2060,42.7623
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2065,42.405
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2070,41.9881
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2075,41.5019
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2080,40.9645
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2085,40.367
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2090,39.7347
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2095,39.0808
+Pcal/yr,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2100,38.4231
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,20.7197
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,24.5172
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,24.9824
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,34.9572
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,46.0316
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,50.8626
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,56.1396
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,61.293
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,65.6195
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,69.2594
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,72.1525
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,74.2164
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,75.6603
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,76.8094
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,77.8304
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,78.5699
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,78.9386
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,79.0181
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,78.912
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,78.7237
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,78.4812
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,78.1392
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,41.9728
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,47.8705
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,49.7129
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,48.791
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,48.4329
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,49.6688
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,50.4132
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,50.822
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,51.1154
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,51.3281
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,51.3882
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,51.2215
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,50.8117
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,50.1961
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,49.4839
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,48.6891
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,47.816
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,46.8647
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,45.8797
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,44.9119
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,43.982
+Pcal/yr,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,43.0743
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,101.725
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,239.954
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,538.163
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,668.486
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,770.581
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,866.18
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,950.879
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,1010.16
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,1043.64
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,1060.12
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,1063.01
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,1053
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,1032.13
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,1005.2
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,974.025
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,940.386
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,904.668
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,867.716
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,830.088
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,793.534
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,759.13
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,727.148
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,1975,550.76
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,1990,783.611
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2005,828.763
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2010,846.242
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2015,886.738
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2020,881.627
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2025,873.072
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2030,862.234
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2035,847.617
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2040,828.062
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2045,804.056
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2050,776.272
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2055,745.576
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2060,712.823
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2065,679.255
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2070,645.927
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2075,613.049
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2080,580.536
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2085,548.901
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2090,519.08
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2095,491.656
+Pcal/yr,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2100,466.619
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,6.44687
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,11.2116
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,17.8103
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,23.9176
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,31.381
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,34.2256
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,37.4417
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,40.5047
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,43.4471
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,46.2795
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,48.9286
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,51.3379
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,53.4635
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,55.341
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,56.9377
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,58.2631
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,59.2994
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,60.0386
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,60.4853
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,60.6998
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,60.7092
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,60.5298
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,8.56683
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,13.0219
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,17.6705
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,16.834
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,18.2664
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,19.1993
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,19.9545
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,20.6244
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,21.1784
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,21.628
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,21.9826
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,22.2246
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,22.3609
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,22.4158
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,22.3801
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,22.2731
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,22.0981
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,21.8509
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.5403
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.1936
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,20.8187
+Pcal/yr,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,20.4189
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,56.7587
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,64.0024
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,62.9874
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,63.2257
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,63.1383
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,66.6157
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,69.0228
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,70.868
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,72.1445
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,72.974
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,73.4247
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,73.6177
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,73.5248
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,73.241
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,72.6666
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,71.7853
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,70.6667
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,69.4587
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,68.2585
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,67.1083
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,66.0074
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,64.9136
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,1975,65.501
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,1990,60.8196
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2005,56.6506
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2010,53.5429
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2015,50.6221
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2020,49.9892
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2025,49.3934
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2030,48.6916
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2035,47.8585
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2040,46.9883
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2045,46.1389
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2050,45.2917
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2055,44.3963
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2060,43.4082
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2065,42.2668
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2070,41.0169
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2075,39.7395
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2080,38.5059
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2085,37.3539
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2090,36.2889
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2095,35.2928
+Pcal/yr,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2100,34.333
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,212.945
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,260.688
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,289.747
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,302.335
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,304.323
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,314.881
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,324.128
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,333.312
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,342.224
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,351.13
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,359.551
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,367.146
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,373.756
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,379.919
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,385.208
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,389.74
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,393.546
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,396.632
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,398.931
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,400.23
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,400.5
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,399.481
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,1975,148.132
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,1990,152.61
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2005,169.779
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2010,169.219
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2015,172.225
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2020,174.61
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2025,176.921
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2030,178.988
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2035,180.842
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2040,182.494
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2045,183.89
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2050,184.938
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2055,185.593
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2060,185.941
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2065,185.862
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2070,185.548
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2075,185.064
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2080,184.363
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2085,183.402
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2090,182.055
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2095,180.313
+Pcal/yr,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2100,178.063
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,31.246
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,35.8876
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,28.4419
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,31.6801
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,31.0908
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,32.0907
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,33.3942
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,34.8282
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,36.0317
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,37.0321
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,37.8039
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,38.3873
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,38.8881
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,39.3962
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,39.7738
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,39.9778
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,39.9844
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,39.8369
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,39.5799
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,39.2473
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,38.8422
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,38.3388
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,38.6181
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,39.1425
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,44.2231
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,31.5447
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,31.1231
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,29.9356
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,28.852
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,27.8691
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,27.0397
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,26.3515
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,25.7535
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,25.2083
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,24.6996
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,24.2261
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,23.7231
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,23.2057
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,22.6735
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,22.1261
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.571
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.0181
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,20.4668
+Pcal/yr,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,19.9038
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,24.3545
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,35.6966
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,44.375
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,55.4183
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,65.5528
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,70.2668
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,75.6123
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,80.7514
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,85.3514
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,89.5717
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,93.2912
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,96.4995
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,99.1301
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,101.28
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,102.955
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,104.144
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,104.833
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,105.069
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,104.939
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,104.577
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,104.007
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,103.222
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,1975,46.8622
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,1990,63.4178
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2005,64.834
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2010,60.3785
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2015,59.2371
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2020,61.2967
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2025,63.0444
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2030,64.544
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2035,65.8009
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2040,66.7944
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2045,67.5184
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2050,67.9691
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2055,68.1149
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2060,67.9929
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2065,67.6313
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2070,67.036
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2075,66.2206
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2080,65.2188
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2085,64.0827
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2090,62.8969
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2095,61.6742
+Pcal/yr,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2100,60.4077
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,8.39411
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,9.27527
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,10.18
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,10.6957
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,10.7138
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,11.2515
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,11.7857
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,12.319
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,12.8314
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,13.3364
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,13.8396
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,14.3452
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,14.838
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,15.3116
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,15.7376
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,16.1169
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,16.4497
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,16.7359
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,16.9703
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,17.1333
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,17.222
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,17.2351
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,1975,3.8804
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,1990,4.46471
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2005,5.13286
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2010,4.92057
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2015,5.00743
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2020,5.18217
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2025,5.36638
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2030,5.54806
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2035,5.71773
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2040,5.87437
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2045,6.02262
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2050,6.16389
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2055,6.29627
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2060,6.41702
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2065,6.51321
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2070,6.58851
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2075,6.64703
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2080,6.68875
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2085,6.71274
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2090,6.71081
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2095,6.68186
+Pcal/yr,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2100,6.62517
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,107.778
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,178.582
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,263.464
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,380.161
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,491.442
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,605.466
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,732.186
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,839.495
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,942.607
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,1042.13
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,1135.67
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,1221.06
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,1296.22
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,1360.78
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,1414.2
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,1456.72
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,1488.1
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,1508.49
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,1518.47
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,1519.9
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,1513.44
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,1500.99
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,1975,341.269
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,1990,540.157
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2005,653.095
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2010,674.36
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2015,687.194
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2020,704.707
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2025,719.695
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2030,737.84
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2035,755.57
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2040,771.542
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2045,785.585
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2050,796.271
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2055,802.982
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2060,804.832
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2065,802.34
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2070,796.454
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2075,787.219
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2080,774.706
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2085,759.179
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2090,741.572
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2095,722.12
+Pcal/yr,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2100,701.929
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,14.9084
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,34.1271
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,51.8793
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,62.7676
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,86.6095
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,102.03
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,118.75
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,135.912
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,151.162
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,164.891
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,176.513
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,185.874
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,193.232
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,198.739
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,202.48
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,204.578
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,205.356
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,205.064
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,203.889
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,201.98
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,199.464
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,196.45
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,81.6677
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,129.69
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,157.495
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,169.667
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,184.353
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,188.778
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,191.828
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,193.877
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,195.39
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,196.038
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,195.688
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,194.194
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,191.841
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,188.655
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,184.769
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,180.336
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,175.499
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,170.398
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,165.152
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,159.841
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,154.525
+Pcal/yr,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,149.25
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,36.0585
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,50.2037
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,54.5681
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,56.0512
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,57.8491
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,61.5396
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,61.6213
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,61.8093
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,61.5354
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,60.9953
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,60.3802
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,59.661
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,58.8974
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,58.0942
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,57.1174
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,55.9848
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,54.7473
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,53.4595
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,52.0723
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,50.6464
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,49.197
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,47.7238
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,64.3054
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,64.5408
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,59.0876
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,55.4833
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,55.1117
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,54.3711
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,53.4162
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,52.2234
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,50.9315
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,49.582
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,48.1786
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,46.761
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,45.3532
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,43.9396
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,42.442
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,40.8845
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,39.3272
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,37.8061
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,36.2532
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,34.7204
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,33.2251
+Pcal/yr,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,31.7687
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,20.6051
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,33.3824
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,51.0759
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,62.7577
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,71.5147
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,76.6798
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,82.7313
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,89.1756
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,95.1521
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,100.637
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,105.668
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,110.252
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,114.23
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,117.522
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,120.441
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,123.02
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,125.267
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,127.122
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,128.561
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,129.626
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,130.444
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,131.047
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,1975,34.1187
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,1990,51.2315
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2005,62.853
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2010,60.9341
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2015,63.0755
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2020,66.1261
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2025,68.7237
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2030,70.876
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2035,72.6413
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2040,74.0293
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2045,75.0223
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2050,75.6259
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2055,75.8543
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2060,75.7062
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2065,75.4112
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2070,75.0476
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2075,74.5968
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2080,74.0235
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2085,73.3179
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2090,72.4991
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2095,71.6485
+Pcal/yr,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2100,70.7871
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,20.7675
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,44.5715
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,70.4189
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,97.0648
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,117.532
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,129.768
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,143.573
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,161.569
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,179.055
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,196.21
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,212.394
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,227.345
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,241.164
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,254.136
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,266.159
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,276.943
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,286.331
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,294.437
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,301.341
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,307.212
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,312.142
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,316.022
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,1975,43.4033
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,1990,90.0751
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2005,125.247
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2010,121.098
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2015,129.48
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2020,141.782
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2025,153.241
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2030,163.498
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2035,173.368
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2040,182.764
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2045,191.338
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2050,198.866
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2055,205.202
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2060,210.284
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2065,214.177
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2070,216.977
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2075,218.696
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2080,219.446
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2085,219.395
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2090,218.708
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2095,217.549
+Pcal/yr,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2100,215.904
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,15.0808
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,28.725
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,47.629
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,59.7927
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,71.6163
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,84.0431
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,93.6983
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,108.176
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,124.08
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,141.519
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,159.961
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,178.82
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,197.315
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,215.207
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,232.358
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,248.534
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,263.407
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,276.657
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,288.369
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,298.32
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,306.75
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,313.672
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,39.6164
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,58.6553
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,80.2701
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,85.8052
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,90.7
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,97.2161
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,104.032
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,108.477
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,112.089
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,115.125
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,117.741
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,119.903
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,121.364
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,122.174
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,122.526
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,122.523
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,122.346
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,121.931
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,121.35
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,120.448
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,119.343
+Pcal/yr,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,118.05
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,63.4843
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,73.216
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,66.7658
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,83.4337
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,89.6803
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,91.67
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,94.0693
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,97.7223
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,100.567
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,102.886
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,104.541
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,105.714
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,106.733
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,108.003
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,109.04
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,109.79
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,110.14
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,110.107
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,109.797
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,109.304
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,108.63
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,107.665
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,85.1448
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,89.7159
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,81.939
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,79.6702
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,79.2439
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,78.5417
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,77.5878
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,76.3825
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,75.3793
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,74.7252
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,74.2329
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,73.81
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,73.3387
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,72.8279
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,72.1873
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,71.481
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,70.693
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,69.7868
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,68.7651
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,67.6626
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,66.4873
+Pcal/yr,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,65.2033
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,6.85114
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,9.73927
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,14.8874
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,20.3183
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,24.2502
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,25.2169
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,27.0993
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,29.8486
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,32.3452
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,34.655
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,36.7408
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,38.6115
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,40.2996
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,41.8527
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,43.1794
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,44.2414
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,45.0456
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,45.5831
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,45.9127
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,46.0442
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,45.9761
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,45.705
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,1975,17.4789
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,1990,25.1029
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2005,33.8506
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2010,32.2865
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2015,32.8021
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2020,34.2218
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2025,35.3443
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2030,36.1259
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2035,36.7606
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2040,37.2903
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2045,37.7058
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2050,38.0216
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2055,38.2257
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2060,38.3342
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2065,38.2934
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2070,38.0878
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2075,37.7256
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2080,37.2141
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2085,36.6213
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2090,35.9466
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2095,35.1882
+Pcal/yr,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2100,34.3433
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,5.45029
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,7.71042
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,10.6529
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,15.4758
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,15.7927
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,10.3936
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,10.5114
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,11.7832
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,13.0658
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,14.3297
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,15.5875
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,16.8178
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,17.9899
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,19.0952
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,20.0873
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,20.9498
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,21.6879
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,22.324
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,22.8557
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,23.2768
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,23.5868
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,23.7977
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,5.44418
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,9.8581
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,13.0666
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,15.5017
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,12.6661
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,15.1086
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,16.1215
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,16.6498
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,17.071
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,17.3955
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,17.6213
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,17.7519
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,17.8001
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,17.7723
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,17.6735
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,17.5026
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,17.2626
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,16.9736
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,16.6416
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,16.2745
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,15.8808
+Pcal/yr,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,15.4685
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,13.2174
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,18.1005
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,26.6654
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,35.2363
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,41.8885
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,45.6787
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,50.0396
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,54.7065
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,58.8826
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,62.7449
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,66.2312
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,69.2772
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,71.8229
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,73.9121
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,75.6609
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,77.0848
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,78.1767
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,78.9444
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,79.4082
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,79.6121
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,79.6186
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,79.4635
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,18.6072
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,26.2893
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,35.9844
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,37.2285
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,40.9168
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,42.4983
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,43.7826
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,44.7854
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,45.5858
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,46.1643
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,46.5093
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,46.6238
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,46.5207
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,46.2239
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,45.8232
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,45.3382
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,44.7696
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,44.1147
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,43.3854
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,42.6057
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,41.8077
+Pcal/yr,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,41.0053
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,12.7534
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,18.9338
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,31.0783
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,42.7424
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,55.7554
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,68.8789
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,83.9836
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,99.4448
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,114.812
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,130.678
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,146.608
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,162.37
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,177.667
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,192.345
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,206.162
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,218.938
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,230.629
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,241.038
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,250.124
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,257.91
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,264.498
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,269.962
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,76.366
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,108.112
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,158.361
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,159.473
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,163.812
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,171.371
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,178.114
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,184.283
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,189.883
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,194.618
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,198.403
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,201.196
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,203
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,203.81
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,203.871
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,203.309
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,202.24
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,200.722
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,198.799
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,196.538
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,194.035
+Pcal/yr,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,191.376
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,5.80736
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,13.3242
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,19.4856
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,25.437
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,31.4665
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,33.4903
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,34.9141
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,36.018
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,36.663
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,36.8747
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,36.7129
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,36.2188
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,35.4772
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,34.5424
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,33.4934
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,32.4021
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,31.2747
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,30.1573
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,29.0623
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,28.0011
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,26.9846
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,25.9686
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,1975,32.1265
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,1990,29.2764
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2005,27.0415
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2010,27.6294
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2015,25.273
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2020,25.3761
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2025,25.3878
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2030,25.2983
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2035,25.0596
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2040,24.6368
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2045,24.0435
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2050,23.305
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2055,22.4668
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2060,21.5846
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2065,20.6785
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2070,19.7686
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2075,18.8769
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2080,18.0166
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2085,17.1976
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2090,16.4259
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2095,15.7048
+Pcal/yr,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2100,14.9994
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,35.7168
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,61.5864
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,102.402
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,141.456
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,170.403
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,195.568
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,221.763
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,246.08
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,268.267
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,288.969
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,307.757
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,324.287
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,338.631
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,350.959
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,361.211
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,369.371
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,375.423
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,379.506
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,381.82
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,382.661
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,382.309
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,380.902
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,118.338
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,152.601
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,215.914
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,218.677
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,225.296
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,232.294
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,238.026
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,242.876
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,246.642
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,249.156
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,250.447
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,250.529
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,249.649
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,247.921
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,245.39
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,242.216
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,238.398
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,234.06
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,229.344
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,224.385
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,219.32
+Pcal/yr,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,214.187
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,6.05559
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,12.0536
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,13.9052
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,15.4372
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,16.2302
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,16.754
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,17.208
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,17.5504
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,17.8367
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,18.0752
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,18.2474
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,18.3544
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,18.4047
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,18.4521
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,18.6097
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,18.757
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,18.8828
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,18.9855
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,19.0586
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,19.1093
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,19.1405
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,19.1564
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,10.4196
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,8.221
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,8.97832
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,8.60249
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,8.51804
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,8.47615
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,8.44082
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,8.41576
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,8.39518
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,8.37862
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,8.36706
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,8.36023
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,8.35661
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,8.35328
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,8.34257
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,8.33277
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,8.32456
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,8.31797
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,8.31337
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,8.31026
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,8.30842
+Pcal/yr,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,8.30757
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,151.485
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,196.864
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,248.976
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,243.447
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,246.455
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,260.207
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,272.949
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,286.013
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,297.836
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,308.789
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,318.833
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,328.165
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,337.241
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,346.485
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,355.443
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,363.566
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,370.653
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,376.738
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,381.724
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,385.765
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,388.951
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,391.206
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,1975,75.1564
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,1990,111.259
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2005,133.64
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2010,126.53
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2015,124.976
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2020,129.603
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2025,134.307
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2030,138.728
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2035,142.875
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2040,146.719
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2045,150.239
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2050,153.584
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2055,156.921
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2060,160.296
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2065,163.461
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2070,166.277
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2075,168.636
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2080,170.462
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2085,171.786
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2090,172.682
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2095,173.194
+Pcal/yr,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2100,173.29

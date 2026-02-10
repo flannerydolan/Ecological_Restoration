@@ -1,0 +1,1409 @@
+Units,scenario,region,gcam-consumer,nodeinput,input,year,value
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.713716
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.358485
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.327379
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.274034
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.270179
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.277375
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.334376
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.351038
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.367508
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.383607
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.398731
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.411033
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.424335
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.434835
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.443309
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.450093
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.455737
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.460764
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.46519
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.468953
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.472002
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.474199
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0393059
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0393309
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.03756
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.03618
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0369779
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0373478
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.046971
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0480268
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0490779
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0502772
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.05162
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0529196
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0556249
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0582459
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0607585
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0631453
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0653924
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0675124
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0694422
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.071142
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0725647
+2005$/Mcal/day,Scenario 1,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0736769
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.385124
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.320242
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.326498
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.308137
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.304967
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.307174
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.312619
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.314823
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.31709
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.31929
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.321614
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.323537
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.326111
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.32819
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.329988
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.331373
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.332507
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.333369
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.334039
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.33446
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.334735
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.334811
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.02604
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.025817
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.026863
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0264329
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0261315
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0262576
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.026822
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0270007
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0273401
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0276596
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0280241
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0283179
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0287914
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0291649
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0294949
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0297554
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0299698
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0301512
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0302871
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0303755
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0304305
+2005$/Mcal/day,Scenario 1,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0304352
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.559309
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.288219
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.254791
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.232156
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.226534
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.227954
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.247969
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.251005
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.254437
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.257763
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.261129
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.264031
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.268423
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.272269
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.275711
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.278653
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.281115
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.283197
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.284883
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.286167
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.287124
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.287764
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.044549
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0421755
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0417657
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0441231
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0433531
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0432157
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0479844
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0479945
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0481031
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0482292
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0484238
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0486007
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0495399
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0504126
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.051244
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0520079
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0526836
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.05329
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0538101
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0542192
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0545306
+2005$/Mcal/day,Scenario 1,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0548218
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.390602
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.287137
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.28545
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.259493
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.248112
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.249733
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.286036
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.293083
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.299422
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.305404
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.31169
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.317616
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.328218
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.338376
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.347892
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.356243
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.363144
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.368705
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.372929
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.375917
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.378005
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.379179
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0528215
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0510511
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0497996
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0524772
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.054664
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0548169
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0665658
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0686698
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.070709
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0727577
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0750715
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0773909
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0819646
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0865316
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0910617
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0953913
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0993822
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.103003
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.106189
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.108891
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.111198
+2005$/Mcal/day,Scenario 1,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.113029
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.751776
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.326043
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.276584
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.249561
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.264681
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.267541
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.27641
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.282091
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.287616
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.292781
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.297734
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.30198
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.306535
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.310409
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.31382
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.316644
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.31896
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.320854
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.322307
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.323327
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.323955
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.324124
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0352119
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0343037
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0328921
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0292686
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0330233
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0328509
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0333689
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.033329
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0335082
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0336595
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0338295
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0339398
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0343513
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0346622
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0349194
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0351089
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0352381
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0353373
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0353891
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0354005
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0353788
+2005$/Mcal/day,Scenario 1,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0353141
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.529085
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.316421
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.335188
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.299982
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.277175
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.278866
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.293371
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.29602
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.298807
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.30138
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.303888
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.306039
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.308942
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.311361
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.313457
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.315175
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.316525
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.317585
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.318324
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.318777
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.319003
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.318953
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0327537
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0367484
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0351936
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0372342
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0346706
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0344358
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0350197
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.03493
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0351845
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0354271
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0356678
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0358454
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0362445
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0365561
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0368224
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0370332
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0371904
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0373177
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0373975
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0374355
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0374366
+2005$/Mcal/day,Scenario 1,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0373925
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.395505
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.148224
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.155235
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.147656
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.143649
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.145097
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.159014
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.162487
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.165919
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.169155
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.172325
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.174916
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.177691
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.179858
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.181554
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.182709
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.183435
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.183824
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.183912
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.18375
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.183404
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.182832
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0244895
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0226963
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0222024
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0218787
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0213125
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0211389
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0226189
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0226403
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0229863
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0233077
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0236078
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0238209
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0240847
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0242654
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0243849
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0244301
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0244115
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0243573
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0242633
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0241326
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0239876
+2005$/Mcal/day,Scenario 1,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.023815
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.308641
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.281344
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.270202
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.262009
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.251943
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.252989
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.260368
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.262319
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.264466
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.266435
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.268525
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.270285
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.272767
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.274766
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.27649
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.277962
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.27911
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.279991
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.280592
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.280961
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.281149
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.281084
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0293753
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0293177
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.026563
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.028062900000000002
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.03005
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.030047
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0307276
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0307834
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0310739
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0313598
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.03168
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0319392
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0323379
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0326172
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0328423
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.033003
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0331165
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0332022
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.033244
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.033257
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0332376
+2005$/Mcal/day,Scenario 1,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0331795
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.414733
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.249867
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.241264
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.203734
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.190567
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.191778
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.196443
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.198351
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.200477
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.202564
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.204738
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.206594
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.208982
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.210954
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.212692
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.214118
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.215265
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.2162
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.216905
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.217392
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.217716
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.217827
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0350073
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0331184
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0366597
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0349213
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0342061
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0343453
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0352965
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.035492
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0357318
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0359455
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0361871
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0363288
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0368238
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0371857
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0374817
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0376875
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0378232
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.037919
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0379618
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0379541
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0379137
+2005$/Mcal/day,Scenario 1,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0378283
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.447138
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.275531
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.270391
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.254284
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.246766
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.248348
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.252393
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.254129
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.255686
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.257083
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.258385
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.259361
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.260748
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.261891
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.262924
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.263757
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.264366
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.264857
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.265189
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.265414
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.265574
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.265539
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0224052
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0220503
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0234974
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0244156
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0258825
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0259395
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0264233
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0265426
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.026711
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0268626
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0270111
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0271054
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0273356
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0275094
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0276652
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0277861
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0278632
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0279257
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0279561
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0279687
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0279707
+2005$/Mcal/day,Scenario 1,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0279213
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.505005
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.441619
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.496844
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.482886
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.483568
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.487159
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.496611
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.499545
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.502003
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.503781
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.505096
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.505541
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.506224
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.506265
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.505905
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.505086
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.503843
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.502392
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.500826
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.499243
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.497719
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.496187
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0665429
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0565825
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0599002
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0591629
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0576068
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0580289
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0604343
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0607222
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0609902
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0609097
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0605632
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0599157
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0593457
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0585806
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0577272
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0567993
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0558306
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0548902
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0539913
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0531622
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0524129
+2005$/Mcal/day,Scenario 1,China,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0517177
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.520698
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.230426
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.225835
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.189949
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.178788
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.180176
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.183263
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.184943
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.186658
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.188336
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.19002
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.191402
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.193003
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.194291
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.195399
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.196251
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.196881
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.197345
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.197647
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.197809
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.197861
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.19777
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.048926
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0469317
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0393482
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0410432
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0406347
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0404817
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0408167
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.040723
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0408459
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0409753
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0411448
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0412362
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.041519
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0417068
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0418483
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0419173
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.041931
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0419172
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0418687
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0417963
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0417154
+2005$/Mcal/day,Scenario 1,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0416044
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.218705
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.213043
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.204393
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.193099
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.184238
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.184459
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.188128
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.189048
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.190137
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.191163
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.19227
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.193116
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.194546
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.195697
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.196699
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.197473
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.198052
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.198511
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.198824
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.199008
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.1991
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.199027
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0253779
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0247767
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0253666
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0253672
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0251457
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0250334
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0256527
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0257152
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0259928
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.026257
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0265422
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0267687
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0271165
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0273857
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0276226
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0277942
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0279104
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0280014
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.028053
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0280756
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0280748
+2005$/Mcal/day,Scenario 1,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0280289
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.29424
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.28675
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.276096
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.258365
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.250835
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.251366
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.257818
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.259233
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.260938
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.262554
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.264227
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.265531
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.267602
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.26928
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.270714
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.271853
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.272737
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.273442
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.273924
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.274201
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.274327
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.274237
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.030898
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0301652
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0286063
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0284946
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0279877
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0280768
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0289614
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0291801
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0295285
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0298518
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0301995
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0304762
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0309096
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0312483
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.031537
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0317593
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0319285
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0320685
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0321567
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0321999
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0322078
+2005$/Mcal/day,Scenario 1,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0321653
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.161605
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.153859
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.179067
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.180803
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.1669
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.16746
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.170531
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.171842
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.173243
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.174614
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.176095
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.17734
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.178845
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.180107
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.181255
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.182145
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.182811
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.183363
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.183768
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.18405
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.184257
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.184292
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.01924
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0186718
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0186748
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0201303
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0197781
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0197881
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0202195
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0203388
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0205208
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0206979
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0208954
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0210475
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0212869
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0214705
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0216262
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0217368
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0218107
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.021868
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0218962
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0219021
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0218935
+2005$/Mcal/day,Scenario 1,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0218567
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.500806
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.283124
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.285882
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.263555
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.26187
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.264879
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.274268
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.27776
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.281344
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.284761
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.288251
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.291197
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.294633
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.297385
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.299774
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.301605
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.302948
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.303951
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.304524
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.304754
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.304736
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.30437
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0298837
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0297035
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0302175
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0299182
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0295683
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.029541
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0302896
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0304075
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0308493
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0312721
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0317125
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0320647
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0325675
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.032956
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0332952
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0335491
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0337305
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0338756
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0339574
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0339903
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0339851
+2005$/Mcal/day,Scenario 1,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0339167
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.401596
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.392168
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.346506
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.345721
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.345
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.345631
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.354246
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.356387
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.358897
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.361091
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.363284
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.365144
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.367731
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.369868
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.371705
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.373187
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.374408
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.375327
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.375927
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.376262
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.376411
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.376271
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0453566
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0449004
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0412123
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0373649
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0328808
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0328474
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0336053
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0337523
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0340735
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0343516
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0346415
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0348696
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0352912
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0356261
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0359196
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.036148
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0363241
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0364679
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0365574
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0366025
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0366136
+2005$/Mcal/day,Scenario 1,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.036569
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,1.88263
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.141714
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.144343
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.125018
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.114462
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.117478
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.124143
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.128281
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.132614
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.136885
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.141139
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.144833
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.148906
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.152325
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.155161
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.157371
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.15892
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.159883
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.160251
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.16012
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.159544
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.158567
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.029412399999999998
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0296326
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0294895
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0295925
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0292157
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0298588
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0333553
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0347655
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0368098
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0387763
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.04073
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0423973
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0444795
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0462043
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0476062
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0486373
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0492484
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0494811
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0493296
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0488788
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.048161
+2005$/Mcal/day,Scenario 1,India,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0472306
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.472389
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.247082
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.283128
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.301339
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.28837
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.290949
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.296092
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.298941
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.301506
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.303977
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.306334
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.308181
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.310243
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.311727
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.31281
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.313465
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.313817
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.313979
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.313964
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.313798
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.31352
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.313087
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0631971
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0628664
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0595568
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0602101
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.059763
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0601555
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0609999
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0613975
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0620348
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0626563
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0631894
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0634779
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0639604
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0641613
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0641616
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0639614
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0636291
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0632228
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0627533
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0622399
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0617003
+2005$/Mcal/day,Scenario 1,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.061123
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.974067
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.81536
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.692183
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.638663
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.584985
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.584659
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.601867
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.604427
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.608061
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.611746
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.615609
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.618721
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.623552
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.627588
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.631103
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.63402
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.636355
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.638221
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.639536
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.640354
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.640829
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.640815
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.1455
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.130107
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.12118
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.119578
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.115136
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.115346
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.118358
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.118639
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.118968
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.118945
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.11908
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.118981
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.119425
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.119508
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.119365
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.11893
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.118327
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.117626
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.116793
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.11589
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.114956
+2005$/Mcal/day,Scenario 1,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.113954
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.390789
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.253677
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.254762
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.217844
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.211603
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.212731
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.217455
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.219107
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.221124
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.223021
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.22494
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.2266
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.228669
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.230444
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.232065
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.233458
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.234621
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.235603
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.236382
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.237015
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.23751
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.237688
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0218409
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0220235
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0226875
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0225081
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0223988
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0223885
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0228332
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0228513
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0231122
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0234079
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0237887
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0241081
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0244391
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0246532
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0248195
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.024914
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0249689
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0250132
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0250363
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0250495
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0250517
+2005$/Mcal/day,Scenario 1,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.025019
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.477225
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.357439
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.363189
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.309228
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.2779
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.2795
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.290914
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.293112
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.295466
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.297723
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.299976
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.301713
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.304443
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.306619
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.308524
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.310116
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.31124
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.312098
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.312591
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.312771
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.312753
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.312466
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0375027
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0342099
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0358677
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0333094
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0326746
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0327318
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0338907
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.034066
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0345159
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0349253
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0353434
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.03565
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0362183
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0366551
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0370138
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0372697
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0374513
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0375894
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0376672
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0376879
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0376632
+2005$/Mcal/day,Scenario 1,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0375726
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.199686
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.116354
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.117772
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.113476
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.111383
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.114933
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.118782
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.121207
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.123719
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.126226
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.129013
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.131707
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.13487
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.137866
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.141054
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.143969
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.146219
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.148134
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.149561
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.150586
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.151295
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.151659
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0273174
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0275043
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0275882
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0274272
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0272252
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0280532
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0292763
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0297582
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0303743
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0310817
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0320496
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0330819
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0349249
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0369609
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0395714
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0419974
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0436815
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0450641
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0459436
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0464987
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0468055
+2005$/Mcal/day,Scenario 1,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0468506
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.355887
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.333554
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.273566
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.249381
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.234578
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.234487
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.237022
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.237573
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.238412
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.239249
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.240094
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.240741
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.241668
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.242421
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.243069
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.243566
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.243903
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.244135
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.244255
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.244291
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.244272
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.244128
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0238944
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0229548
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0205511
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0229399
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0226783
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0225692
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0227925
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0227756
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0228565
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0229489
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0230549
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0231315
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0233131
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0234501
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0235636
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0236431
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0236894
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0237207
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0237285
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0237197
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0237001
+2005$/Mcal/day,Scenario 1,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0236537
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.548413
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.30562
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.259694
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.210974
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.196153
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.196668
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.199515
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.20103
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.202604
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.204083
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.205516
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.206743
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.208081
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.209172
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.210104
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.210839
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.211414
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.211896
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.212263
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.212515
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.21267
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.21266
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0192147
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0203969
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0208254
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0213737
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0212119
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0213058
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0218878
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0220542
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0223177
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0225822
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0228676
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0230978
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0233908
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0235956
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0237539
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0238506
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.023913
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0239603
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0239837
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0239752
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0239453
+2005$/Mcal/day,Scenario 1,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.023876
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.828998
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.649989
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.632254
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.548005
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.496352
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.490263
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.502424
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.506129
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.510517
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.51517
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.520236
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.52465
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.530279
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.535091
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.53934
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.542766
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.545483
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.54768
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.549359
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.550554
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.55136
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.551628
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.077902
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.070549
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0847022
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0726963
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0689942
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0689793
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0706628
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0708736
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0712633
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0716148
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0720128
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0722359
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0730025
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0735621
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0739994
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0742748
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0744212
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0744896
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0744723
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0743823
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0742408
+2005$/Mcal/day,Scenario 1,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0740279
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.553884
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.34987
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.318567
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.283198
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.269889
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.271219
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.281772
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.283896
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.286208
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.288386
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.290621
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.29248
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.29508
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.297286
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.299256
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.300958
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.302288
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.303323
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.30406300000000003
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.304539
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.304821
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.304836
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0355548
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.033413
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0335842
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.034328
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0342446
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0342303
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.036011
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0360617
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0362638
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.036451
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0366583
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0367816
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0371519
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0374231
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0376494
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0378077
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0379038
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0379661
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0379827
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0379598
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0379087
+2005$/Mcal/day,Scenario 1,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0378153
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,2.70252
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.248688
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.276087
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.269033
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.259785
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.263113
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.268971
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.272982
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.27718
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.281414
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.285724
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.289418
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.293681
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.297288
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.300387
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.302938
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.304979
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.30664
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.307888
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.30876
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.309321
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.309513
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0284442
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0281843
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0289231
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0294091
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.029859
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0306772
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0318962
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0327802
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0339323
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0351231
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0363524
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0374133
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0389655
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0403654
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0416382
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0427499
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0436751
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.044427
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0449907
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0453794
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0456118
+2005$/Mcal/day,Scenario 1,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0456666
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,1.53197
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,1.29744
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,1.15887
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.952475
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.824025
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.823521
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.845595
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.848519
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.852744
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.857032
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.861562
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.865223
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.870809
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.875444
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.879458
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.88274
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.885274
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.887199
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.88845
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.889132
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.88943
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.88917
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.136284
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.127118
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.111969
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.112275
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.102396
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.102777
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.105076
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.105392
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.105749
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.10574
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.105654
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.105201
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.105201
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.104813
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.104227
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.103434
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.102522
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.101561
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.100548
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0995415
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0985724
+2005$/Mcal/day,Scenario 1,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0975639
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.632628
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.345796
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.349291
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.310667
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.285741
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.287115
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.291877
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.293365
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.294847
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.29628
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.297747
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.298879
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.300581
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.301918
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.303023
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.30385
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.304447
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.304882
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.305144
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.305256
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.305257
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.305104
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0370759
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0365292
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0362458
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0362242
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0355637
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0358282
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0369756
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0372419
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.037514
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0377344
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0379391
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0380283
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0386016
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0390372
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.039381
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0396091
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0397294
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0397701
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0397293
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0396258
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0394775
+2005$/Mcal/day,Scenario 1,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0392757
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.469886
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.354788
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.330724
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.291426
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.267388
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.267837
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.27282
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.273594
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.274667
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.275858
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.277289
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.278385
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.280021
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.281283
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.282381
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.283167
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.283723
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.284149
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.284431
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.284572
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.284621
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.284504
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0604836
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0464362
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0397608
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0403237
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0396256
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0396205
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0404019
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0404823
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0406432
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0407996
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0410016
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0411232
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0415167
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0418061
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0420637
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0422335
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0423363
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0423994
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0424103
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0423824
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.042329
+2005$/Mcal/day,Scenario 1,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0422294
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.320009
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.292997
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.295273
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.280179
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.278751
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.280043
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.285479
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.287458
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.289579
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.291452
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.293291
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.294834
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.297063
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.299024
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.300789
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.302391
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.303741
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.304791
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.305476
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.305846
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.306027
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.305988
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0261819
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0245086
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0249088
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0248467
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0251036
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0250905
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0255186
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0255225
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0257179
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0259168
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0261667
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0263682
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0266973
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0269473
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.027166
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0273389
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0274656
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0275654
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.027624
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0276459
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0276452
+2005$/Mcal/day,Scenario 1,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.027616

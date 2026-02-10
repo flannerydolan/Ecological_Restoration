@@ -1,0 +1,1409 @@
+Units,scenario,region,gcam-consumer,nodeinput,input,year,value
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,22.9467
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,34.2103
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,57.9168
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,75.6817
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,81.7832
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,95.2475
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,109.396
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,131.014
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,155.33
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,183.329
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,214.919
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,249.63
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,286.246
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,324.394
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,363.121
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,401.36
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,438.044
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,472.225
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,503.252
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,530.683
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,554.376
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,574.027
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,44.1407
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,67.2717
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,105.843
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,123.895
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,149.012
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,165.959
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,182.206
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,195.694
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,207.351
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,216.902
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,224.573
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,230.679
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,235.614
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,239.588
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,242.847
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,245.549
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,247.753
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,249.369
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,250.377
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,250.733
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,250.54
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,249.787
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,16.286
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,30.7199
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,51.3505
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,66.7648
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,80.7423
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,92.1727
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,103.298
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,116.323
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,128.573
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,140.21
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,151.086
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,160.925
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,169.65
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,177.333
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,183.912
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,189.186
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,193.205
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,196.15
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,198.205
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,199.546
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,200.18
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,200.16
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,54.5705
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,98.0733
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,128.911
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,132.977
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,138.846
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,146.307
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,152.936
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,158.261
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,162.975
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,167.137
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,170.666
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,173.326
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,175.118
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,176.051
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,176.244
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,175.727
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,174.607
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,173.082
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,171.248
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,169.22
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,166.958
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,164.531
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,8.64866
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,13.3899
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,23.4411
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,34.8298
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,47.0008
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,52.7912
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,60.8681
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,71.8516
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,83.7403
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,97.6982
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,113.894
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,132.204
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,151.952
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,172.832
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,194.391
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,216.076
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,237.232
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,257.533
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,276.604
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,293.955
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,309.329
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,322.463
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,30.3187
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,45.009
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,66.454
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,75.9178
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,83.3973
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,93.4908
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,102.76
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,111.204
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,119.313
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,126.627
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,132.841
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,138.121
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,142.498
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,146.173
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,149.369
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,152.156
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,154.487
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,156.472
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,158.117
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,159.28
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,159.984
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,160.237
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,32.8106
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,46.9265
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,81.3673
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,113.358
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,140.089
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,158.286
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,182.509
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,224.058
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,271.186
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,324.908
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,385.087
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,451.24
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,520.967
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,593.505
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,667.615
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,741.397
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,812.912
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,880.595
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,943.08
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,999.608
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,1049.82
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,1093.24
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,1975,76.6074
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,1990,135.7
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2005,211.468
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2010,253.525
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2015,294.186
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2020,330.531
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2025,366.105
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2030,396.488
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2035,425.824
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2040,453.518
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2045,479.502
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2050,503.931
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2055,525.285
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2060,544.148
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2065,561.607
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2070,577.558
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2075,591.798
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2080,604.242
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2085,614.668
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2090,623.128
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2095,629.9
+Pcal/yr,Scenario 3 APC2 CT 10_5,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2100,635.141
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,15.9534
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,18.8781
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,22.4955
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,25.9407
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,29.4018
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,30.0253
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,32.2007
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,34.2573
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,36.117
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,37.7646
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,39.1636
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,40.3758
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,41.3683
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,42.1599
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,42.7817
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,43.2058
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,43.4332
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,43.4885
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,43.4274
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,43.2649
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,43.0033
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,42.6409
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,1975,12.9603
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,1990,15.9662
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2005,16.5584
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2010,20.962
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2015,19.543
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2020,20.3102
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2025,20.7736
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2030,21.184
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2035,21.5421
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2040,21.8538
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2045,22.0841
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2050,22.2352
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2055,22.303
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2060,22.2901
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2065,22.223
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2070,22.0897
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2075,21.8966
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2080,21.6493
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.3779
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.0884
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2095,20.7819
+Pcal/yr,Scenario 3 APC2 CT 10_5,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2100,20.4617
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,10.4373
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,13.658
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,15.98
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,19.9599
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,22.609
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,24.584
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,26.558
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,28.4727
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,30.3001
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,32.115
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,33.9308
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,35.6913
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,37.355
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,38.9665
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,40.4255
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,41.7153
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,42.81
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,43.6955
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,44.3495
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,44.751
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,44.8853
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,44.767
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,1975,5.81307
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,1990,6.77565
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2005,8.80556
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2010,8.82462
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2015,10.129
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2020,10.8368
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2025,11.5283
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2030,12.1806
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2035,12.7999
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2040,13.4019
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2045,13.9907
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2050,14.5612
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2055,15.1009
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2060,15.5987
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2065,16.0179
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2070,16.3635
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2075,16.6386
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2080,16.838
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2085,16.9566
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2090,16.9841
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2095,16.9147
+Pcal/yr,Scenario 3 APC2 CT 10_5,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2100,16.76
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,36.8167
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,65.5723
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,105.086
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,131.092
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,151.882
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,159.329
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,167.918
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,177.324
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,185.105
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,191.841
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,197.411
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,201.646
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,204.488
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,206.252
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,206.839
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,206.389
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,205.073
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,202.932
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,200.113
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,196.817
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,193.171
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,189.193
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,1975,50.9861
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,1990,68.5027
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2005,89.6834
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2010,87.81
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2015,85.7922
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2020,88.9938
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2025,91.1491
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2030,92.6273
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2035,93.6857
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2040,94.2775
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2045,94.4205
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2050,94.0583
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2055,93.1488
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2060,91.8405
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2065,90.1851
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2070,88.2278
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2075,85.9947
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2080,83.5871
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2085,81.07
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2090,78.5193
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2095,75.9803
+Pcal/yr,Scenario 3 APC2 CT 10_5,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2100,73.4746
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,16.3277
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,20.6267
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,25.1027
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,24.8584
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,26.7666
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,28.48
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,30.1005
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,31.8042
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,33.4562
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,35.0891
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,36.6894
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,38.2454
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,39.7198
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,41.1832
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,42.5615
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,43.8304
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,44.9491
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,45.8883
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,46.6093
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,47.1056
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,47.3363
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,47.2943
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,1975,8.43069
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,1990,10.1678
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2005,15.4598
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2010,15.3115
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2015,14.237
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2020,14.9709
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2025,15.6922
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2030,16.3518
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2035,16.9537
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2040,17.5304
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2045,18.1014
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2050,18.6703
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2055,19.2209
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2060,19.7472
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2065,20.2001
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2070,20.5829
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2075,20.8965
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2080,21.1283
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.2675
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.3111
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2095,21.2371
+Pcal/yr,Scenario 3 APC2 CT 10_5,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2100,21.0497
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,12.2096
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,17.6149
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,27.7527
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,36.8303
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,43.9758
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,48.0367
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,52.401
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,57.1786
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,61.7469
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,66.1957
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,70.4408
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,74.3554
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,77.8317
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,80.8779
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,83.5992
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,85.9869
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,88.0001
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,89.6567
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,90.9265
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,91.8459
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,92.4436
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,92.7511
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,1975,18.4841
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,1990,24.9091
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2005,30.6859
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2010,35.0233
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2015,38.1217
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2020,39.6016
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2025,40.7693
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2030,41.6525
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2035,42.3426
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2040,42.8116
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2045,43.0799
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2050,43.1516
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2055,43.0416
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2060,42.7572
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2065,42.3984
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2070,41.9797
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2075,41.4914
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2080,40.9517
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2085,40.3515
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2090,39.7162
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2095,39.0589
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2100,38.3971
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,20.7197
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,24.5172
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,24.9824
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,34.9572
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,46.0316
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,50.8578
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,56.0478
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,61.1757
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,65.4743
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,69.0867
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,71.9507
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,73.9856
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,75.38
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,76.477
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,77.4397
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,78.1158
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,78.4129
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,78.4104
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,78.2093
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,77.9079
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,77.533
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,77.0298
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,41.9728
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,47.8705
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,49.7129
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,48.791
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,48.4329
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,49.6689
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,50.415
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,50.8229
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,51.1155
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,51.3274
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,51.3868
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,51.2192
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,50.8084
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,50.1918
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,49.4783
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,48.682
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,47.8074
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,46.8543
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,45.8673
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,44.8971
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,43.9644
+Pcal/yr,Scenario 3 APC2 CT 10_5,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,43.0535
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,101.725
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,239.954
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,538.163
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,668.486
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,770.581
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,866.109
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,949.84
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,1008.83
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,1041.98
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,1058.13
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,1060.68
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,1050.36
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,1029.14
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,1001.86
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,970.308
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,936.259
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,900.081
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,862.631
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,824.447
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,787.267
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,752.177
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,719.367
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,1975,550.76
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,1990,783.611
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2005,828.763
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2010,846.242
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2015,886.738
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2020,881.631
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2025,873.107
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2030,862.257
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2035,847.629
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2040,828.063
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2045,804.046
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2050,776.251
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2055,745.545
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2060,712.781
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2065,679.203
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2070,645.863
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2075,612.972
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2080,580.446
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2085,548.797
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2090,518.96
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2095,491.519
+Pcal/yr,Scenario 3 APC2 CT 10_5,China,FoodDemand,FoodDemand,FoodDemand_Staples,2100,466.462
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,6.44687
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,11.2116
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,17.8103
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,23.9176
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,31.381
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,34.223
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,37.3902
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,40.4379
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,43.3611
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,46.1721
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,48.7968
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,51.1789
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,53.2684
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,55.1058
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,56.6582
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,57.9348
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,58.9169
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,59.5961
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,59.9763
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,60.1152
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,60.039
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,59.7526
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,8.56683
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,13.0219
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,17.6705
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,16.834
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,18.2664
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,19.1993
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,19.9541
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,20.6238
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,21.1775
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,21.6267
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,21.9809
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,22.2224
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,22.3582
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,22.4125
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,22.3761
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,22.2684
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,22.0925
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,21.8445
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.5329
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.1852
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,20.8091
+Pcal/yr,Scenario 3 APC2 CT 10_5,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,20.4078
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,56.7587
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,64.0024
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,62.9874
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,63.2257
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,63.1383
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,66.6124
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,68.9117
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,70.7336
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,71.9825
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,72.7834
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,73.2031
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,73.3629
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,73.217
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,72.8753
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,72.2368
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,71.2839
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,70.0839
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,68.7856
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,67.4836
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,66.2163
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,64.9818
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,63.7258
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,1975,65.501
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,1990,60.8196
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2005,56.6506
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2010,53.5429
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2015,50.6221
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2020,49.9891
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2025,49.3906
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2030,48.6882
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2035,47.8544
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2040,46.9835
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2045,46.1334
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2050,45.2854
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2055,44.3887
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2060,43.3992
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2065,42.2563
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2070,41.0048
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2075,39.7255
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2080,38.4899
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2085,37.3356
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2090,36.2679
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2095,35.2689
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2100,34.3055
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,212.945
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,260.688
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,289.747
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,302.335
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,304.323
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,314.768
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,323.609
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,332.689
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,341.474
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,350.247
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,358.518
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,365.95
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,372.282
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,378.13
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,383.062
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,387.177
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,390.496
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,393.024
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,394.677
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,395.227
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,394.635
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,392.572
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,1975,148.132
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,1990,152.61
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2005,169.779
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2010,169.219
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2015,172.225
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2020,174.608
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2025,176.912
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2030,178.977
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2035,180.828
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2040,182.478
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2045,183.87
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2050,184.915
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2055,185.565
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2060,185.907
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2065,185.821
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2070,185.499
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2075,185.006
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2080,184.294
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2085,183.321
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2090,181.96
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2095,180.201
+Pcal/yr,Scenario 3 APC2 CT 10_5,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2100,177.932
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,31.246
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,35.8876
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,28.4419
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,31.6801
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,31.0908
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,32.0873
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,33.3436
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,34.7626
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,35.9482
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,36.9307
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,37.6841
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,38.2472
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,38.7146
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,39.1829
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,39.5145
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,39.6669
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,39.6163
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,39.4051
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,39.0767
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,38.6645
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,38.172
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,37.5679
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,38.6181
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,39.1425
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,44.2231
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,31.5447
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,31.1231
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,29.9355
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,28.8511
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,27.8678
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,27.0378
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,26.3492
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,25.7507
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,25.2051
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,24.6955
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,24.2211
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,23.717
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,23.1985
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,22.665
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,22.1162
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.5595
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.0049
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,20.4518
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,19.8866
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,24.3545
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,35.6966
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,44.375
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,55.4183
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,65.5528
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,70.2617
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,75.3956
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,80.465
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,84.9875
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,89.1287
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,92.7683
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,95.8954
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,98.388
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,100.384
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,101.887
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,102.886
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,103.364
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,103.367
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,102.981
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,102.333
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,101.444
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,100.284
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,1975,46.8622
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,1990,63.4178
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2005,64.834
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2010,60.3785
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2015,59.2371
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2020,61.2967
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2025,63.0432
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2030,64.5412
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2035,65.7961
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2040,66.7875
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2045,67.5093
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2050,67.9576
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2055,68.1
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2060,67.9742
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2065,67.6083
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2070,67.0083
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2075,66.1876
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2080,65.18
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2085,64.0377
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2090,62.845
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2095,61.6146
+Pcal/yr,Scenario 3 APC2 CT 10_5,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2100,60.3391
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,8.39411
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,9.27527
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,10.18
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,10.6957
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,10.7138
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,11.2516
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,11.7682
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,12.2975
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,12.8051
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,13.3047
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,13.8015
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,14.2998
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,14.7815
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,15.2422
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,15.6535
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,16.0156
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,16.3283
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,16.5916
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,16.7996
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,16.9325
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,16.9877
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,16.9614
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,1975,3.8804
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,1990,4.46471
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2005,5.13286
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2010,4.92057
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2015,5.00743
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2020,5.18217
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2025,5.36613
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2030,5.54775
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2035,5.71734
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2040,5.8739
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2045,6.02205
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2050,6.1632
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2055,6.2954
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2060,6.41594
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2065,6.51189
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2070,6.58691
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2075,6.64511
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2080,6.68646
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2085,6.71003
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2090,6.70762
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2095,6.67813
+Pcal/yr,Scenario 3 APC2 CT 10_5,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2100,6.6208
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,107.778
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,178.582
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,263.464
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,380.161
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,491.442
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,605.208
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,731.376
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,838.355
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,941.074
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,1040.11
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,1133.13
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,1217.93
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,1292.21
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,1355.69
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,1407.83
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,1448.81
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,1478.38
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,1496.7
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,1504.34
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,1502.99
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,1493.22
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,1476.8
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,1975,341.269
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,1990,540.157
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2005,653.095
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2010,674.36
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2015,687.194
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2020,704.706
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2025,719.678
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2030,737.812
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2035,755.531
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2040,771.491
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2045,785.521
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2050,796.194
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2055,802.885
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2060,804.712
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2065,802.194
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2070,796.277
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2075,787.004
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2080,774.451
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2085,758.879
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2090,741.218
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2095,721.703
+Pcal/yr,Scenario 3 APC2 CT 10_5,India,FoodDemand,FoodDemand,FoodDemand_Staples,2100,701.437
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,14.9084
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,34.1271
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,51.8793
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,62.7676
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,86.6095
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,101.677
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,118.547
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,135.642
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,150.812
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,164.456
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,175.991
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,185.267
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,192.487
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,197.841
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,201.416
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,203.332
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,203.906
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,203.385
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,201.946
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,199.73
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,196.855
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,193.388
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,81.6677
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,129.69
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,157.495
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,169.667
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,184.353
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,188.88
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,191.852
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,193.894
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,195.402
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,196.045
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,195.69
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,194.19
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,191.832
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,188.64
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,184.748
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,180.308
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,175.464
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,170.355
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,165.101
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,159.78
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,154.453
+Pcal/yr,Scenario 3 APC2 CT 10_5,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,149.164
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,36.0585
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,50.2037
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,54.5681
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,56.0512
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,57.8491
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,61.5351
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,61.4998
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,61.6663
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,61.3683
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,60.8027
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,60.1601
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,59.4127
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,58.6089
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,57.765
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,56.7456
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,55.5664
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,54.2777
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,52.9366
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,51.4938
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,50.0084
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,48.4958
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,46.9488
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,64.3054
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,64.5408
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,59.0876
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,55.4833
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,55.1117
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,54.3712
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,53.415
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,52.2218
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,50.9293
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,49.5792
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,48.1751
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,46.7568
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,45.348
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,43.9334
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,42.4347
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,40.876
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,39.3175
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,37.795
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,36.2407
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,34.7063
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,33.2095
+Pcal/yr,Scenario 3 APC2 CT 10_5,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,31.7512
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,20.6051
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,33.3824
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,51.0759
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,62.7577
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,71.5147
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,76.6664
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,82.6511
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,89.0713
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,95.0148
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,100.465
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,105.459
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,110.002
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,113.911
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,117.125
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,119.951
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,122.418
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,124.526
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,126.212
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,127.446
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,128.267
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,128.799
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,129.054
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,1975,34.1187
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,1990,51.2315
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2005,62.853
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2010,60.9341
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2015,63.0755
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2020,66.1259
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2025,68.7224
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2030,70.8741
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2035,72.6385
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2040,74.0257
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2045,75.0176
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2050,75.6202
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2055,75.8469
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2060,75.6969
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2065,75.3997
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2070,75.0335
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2075,74.5794
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2080,74.0022
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2085,73.2919
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2090,72.4676
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2095,71.6106
+Pcal/yr,Scenario 3 APC2 CT 10_5,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2100,70.7414
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,20.7675
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,44.5715
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,70.4189
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,97.0648
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,117.532
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,129.746
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,143.119
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,160.97
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,178.298
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,195.297
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,211.331
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,226.138
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,239.662
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,252.304
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,263.956
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,274.312
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,283.214
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,290.77
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,297.054
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,302.215
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,306.313
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,309.173
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,1975,43.4033
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,1990,90.0751
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2005,125.247
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2010,121.098
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2015,129.48
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2020,141.782
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2025,153.239
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2030,163.493
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2035,173.358
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2040,182.749
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2045,191.319
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2050,198.843
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2055,205.171
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2060,210.246
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2065,214.128
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2070,216.917
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2075,218.622
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2080,219.359
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2085,219.291
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2090,218.585
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2095,217.404
+Pcal/yr,Scenario 3 APC2 CT 10_5,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2100,215.732
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,15.0808
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,28.725
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,47.629
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,59.7927
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,71.6163
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,84.0342
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,93.6275
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,108.079
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,123.954
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,141.34
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,159.716
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,178.505
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,196.894
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,214.633
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,231.546
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,247.352
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,261.87
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,274.705
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,285.883
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,295.192
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,302.785
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,308.606
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,39.6164
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,58.6553
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,80.2701
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,85.8052
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,90.7
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,97.2163
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,104.032
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,108.477
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,112.088
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,115.123
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,117.738
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,119.899
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,121.358
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,122.165
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,122.513
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,122.504
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,122.322
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,121.901
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,121.311
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,120.399
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,119.282
+Pcal/yr,Scenario 3 APC2 CT 10_5,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,117.974
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,63.4843
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,73.216
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,66.7658
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,83.4337
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,89.6803
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,91.6687
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,93.8894
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,97.4996
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,100.293
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,102.554
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,104.144
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,105.243
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,106.16
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,107.312
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,108.214
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,108.811
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,108.989
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,108.766
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,108.245
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,107.516
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,106.583
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,105.327
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,85.1448
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,89.7159
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,81.939
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,79.6702
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,79.2439
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,78.5417
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,77.5845
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,76.3779
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,75.3732
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,74.7175
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,74.2236
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,73.7988
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,73.3249
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,72.8112
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,72.1671
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,71.457
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,70.6648
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,69.7539
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,68.7271
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,67.6189
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,66.4372
+Pcal/yr,Scenario 3 APC2 CT 10_5,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,65.1461
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,6.85114
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,9.73927
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,14.8874
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,20.3183
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,24.2502
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,25.2158
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,27.0504
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,29.7831
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,32.2579
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,34.5421
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,36.5975
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,38.432
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,40.0716
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,41.5669
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,42.8259
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,43.8099
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,44.5263
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,44.9667
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,45.1894
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,45.2037
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,45.0096
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,44.6005
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,1975,17.4789
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,1990,25.1029
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2005,33.8506
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2010,32.2865
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2015,32.8021
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2020,34.2218
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2025,35.3432
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2030,36.1242
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2035,36.7582
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2040,37.2871
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2045,37.7015
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2050,38.0161
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2055,38.2188
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2060,38.3254
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2065,38.2825
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2070,38.0744
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2075,37.7096
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2080,37.1952
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2085,36.5992
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2090,35.9211
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2095,35.159
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2100,34.3102
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,5.45029
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,7.71042
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,10.6529
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,15.4758
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,15.7927
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,10.39
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,10.4704
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,11.7304
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,12.9987
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,14.246
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,15.4843
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,16.693
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,17.8358
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,18.9082
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,19.8634
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,20.6841
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,21.3744
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,21.9572
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,22.4285
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,22.7809
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,23.0132
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,23.131
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,5.44418
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,9.8581
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,13.0666
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,15.5017
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,12.6661
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,15.1094
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,16.1305
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,16.6599
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,17.0823
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,17.4078
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,17.6344
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,17.7655
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,17.8148
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,17.7876
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,17.6893
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,17.5187
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,17.2789
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,16.9899
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,16.6577
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,16.2902
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,15.8961
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,15.4833
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,13.2174
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,18.1005
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,26.6654
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,35.2363
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,41.8885
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,45.6716
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,49.9518
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,54.5926
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,58.737
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,62.5637
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,66.0091
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,69.0096
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,71.4888
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,73.503
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,75.166
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,76.491
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,77.4683
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,78.1053
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,78.4199
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,78.4528
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,78.2649
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,77.8778
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,18.6072
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,26.2893
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,35.9844
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,37.2285
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,40.9168
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,42.4984
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,43.7828
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,44.7849
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,45.5845
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,46.1621
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,46.506100000000004
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,46.6194
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,46.5148
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,46.2163
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,45.8136
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,45.3264
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,44.7552
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,44.0974
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,43.3649
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,42.5815
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,41.7793
+Pcal/yr,Scenario 3 APC2 CT 10_5,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,40.972
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,12.7534
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,18.9338
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,31.0783
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,42.7424
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,55.7554
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,68.8733
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,83.8237
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,99.2329
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,114.535
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,130.326
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,146.172
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,161.843
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,176.992
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,191.494
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,205.105
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,217.64
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,229.046
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,239.129
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,247.843
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,255.204
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,261.302
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,266.177
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,76.366
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,108.112
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,158.361
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,159.473
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,163.812
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,171.372
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,178.142
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,184.311
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,189.912
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,194.645
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,198.426
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,201.215
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,203.016
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,203.82
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,203.875
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,203.305
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,202.226
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,200.698
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,198.764
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,196.49
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,193.972
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,191.297
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,5.80736
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,13.3242
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,19.4856
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,25.437
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,31.4665
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,33.4816
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,34.8418
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,35.9325
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,36.5634
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,36.7619
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,36.5873
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,36.0812
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,35.3194
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,34.3648
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,33.2956
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,32.1827
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,31.0318
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,29.8895
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,28.7672
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,27.6752
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,26.6241
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,25.5658
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,1975,32.1265
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,1990,29.2764
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2005,27.0415
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2010,27.6294
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2015,25.273
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2020,25.3762
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2025,25.3881
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2030,25.2982
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2035,25.0591
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2040,24.6359
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2045,24.0421
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2050,23.3032
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2055,22.4646
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2060,21.5819
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2065,20.6753
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2070,19.7648
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2075,18.8725
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2080,18.0116
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2085,17.1919
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2090,16.4194
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2095,15.6976
+Pcal/yr,Scenario 3 APC2 CT 10_5,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2100,14.9912
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,35.7168
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,61.5864
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,102.402
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,141.456
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,170.403
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,195.541
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,221.373
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,245.604
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,267.695
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,288.299
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,306.983
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,323.403
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,337.549
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,349.652
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,359.646
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,367.512
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,373.224
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,376.924
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,378.801
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,379.144
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,378.223
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,376.136
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,118.338
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,152.601
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,215.914
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,218.677
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,225.296
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,232.295
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,238.043
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,242.889
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,246.651
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,249.16
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,250.446
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,250.525
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,249.639
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,247.906
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,245.368
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,242.187
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,238.361
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,234.014
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,229.288
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,224.318
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,219.24
+Pcal/yr,Scenario 3 APC2 CT 10_5,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,214.092
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,6.05559
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,12.0536
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,13.9052
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,15.4372
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,16.2302
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,16.7528
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,17.1817
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,17.5188
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,17.799
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,18.0312
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,18.1967
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,18.297
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,18.3363
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,18.3714
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,18.5142
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,18.6441
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,18.7496
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,18.8292
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,18.8756
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,18.8955
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,18.8905
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,18.8613
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,10.4196
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,8.221
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,8.97832
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,8.60249
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,8.51804
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,8.47613
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,8.44036
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,8.4152
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,8.39451
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,8.37783
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,8.36616
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,8.35922
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,8.3554
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,8.35186
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,8.34089
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,8.33079
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,8.32224
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,8.31524
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,8.31019
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,8.30655
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,8.30408
+Pcal/yr,Scenario 3 APC2 CT 10_5,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,8.30245
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,151.485
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,196.864
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,248.976
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,243.447
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,246.455
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,260.196
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,272.56
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,285.492
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,297.178
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,307.966
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,317.863
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,327.042
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,335.846
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,344.771
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,353.34
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,361.004
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,367.546
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,372.992
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,377.225
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,380.383
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,382.552
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,383.585
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,1975,75.1564
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,1990,111.259
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2005,133.64
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2010,126.53
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2015,124.976
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2020,129.603
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2025,134.3
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2030,138.719
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2035,142.863
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2040,146.704
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2045,150.221
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2050,153.563
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2055,156.895
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2060,160.264
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2065,163.422
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2070,166.229
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2075,168.578
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2080,170.393
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2085,171.703
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2090,172.582
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2095,173.076
+Pcal/yr,Scenario 3 APC2 CT 10_5,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2100,173.15

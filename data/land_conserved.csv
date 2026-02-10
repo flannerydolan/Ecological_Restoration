@@ -1,0 +1,25 @@
+﻿region,scenario,area
+Brazil,Species Richness 30%,4000
+Africa_Western,Species Richness 30%,5000
+South America_Southern,Species Richness 30%,1500
+Africa_Eastern,Species Richness 30%,1900
+Africa_Southern,Species Richness 30%,1800
+Australia_NZ,Species Richness 30%,2000
+China,Species Richness 30%,400
+India,Species Richness 30%,200
+Russia,Species Richness 30%,300
+South America_Northern,Species Richness 30%,400
+Brazil,Total Carbon 30%,3250
+Africa_Western,Total Carbon 30%,3500
+Russia,Total Carbon 30%,2500
+South America_Southern,Total Carbon 30%,1500
+Canada,Total Carbon 30%,900
+South America_Northern,Total Carbon 30%,400
+USA,Total Carbon 30%,500
+Indonesia,Total Carbon 30%,500
+Africa_Southern,Total Carbon 30%,1000
+China,Total Carbon 30%,400
+Africa_Eastern,Total Carbon 30%,2000
+Colombia,Total Carbon 30%,250
+Australia_NZ,Total Carbon 30%,500
+Southeast Asia,Total Carbon 30%,300

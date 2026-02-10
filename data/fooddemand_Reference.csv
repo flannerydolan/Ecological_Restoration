@@ -1,0 +1,1409 @@
+Units,scenario,region,gcam-consumer,nodeinput,input,year,value
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,22.9467
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,34.2103
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,57.9168
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,75.6817
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,81.7832
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,94.8265
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,111.359
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,133.204
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,157.748
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,185.801
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,217.154
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,251.319
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,287.447
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,325.125
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,363.551
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,401.822
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,438.963
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,473.995
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,506.303
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,535.402
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,561.164
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,583.377
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,44.1407
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,67.2717
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,105.843
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,123.895
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,149.012
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,166.004
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,181.926
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,195.335
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,206.957
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,216.536
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,224.291
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,230.507
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,235.519
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,239.545
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,242.83
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,245.536
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,247.736
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,249.348
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,250.359
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,250.727
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,250.555
+Pcal/yr,Reference,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,249.832
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,16.286
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,30.7199
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,51.3505
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,66.7648
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,80.7423
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,92.0595
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,103.204
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,116.108
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,128.269
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,139.807
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,150.583
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,160.34
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,169.08
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,176.809
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,183.473
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,188.88
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,193.073
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,196.283
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,198.673
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,200.404
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,201.463
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,201.93
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,54.5705
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,98.0733
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,128.911
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,132.977
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,138.846
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,146.316
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,152.942
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,158.269
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,162.981
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,167.141
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,170.667
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,173.323
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,175.112
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,176.043
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,176.236
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,175.721
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,174.604
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,173.085
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,171.26
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,169.242
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,166.992
+Pcal/yr,Reference,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,164.578
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,8.64866
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,13.3899
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,23.4411
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,34.8298
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,47.0008
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,52.6162
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,61.2496
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,72.1313
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,83.9232
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,97.7341
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,113.73
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,131.806
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,151.427
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,172.211
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,193.735
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,215.486
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,236.843
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,257.505
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,277.129
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,295.26
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,311.669
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,326.199
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,30.3187
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,45.009
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,66.454
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,75.9178
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,83.3973
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,93.52
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,102.711
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,111.174
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,119.301
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,126.634
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,132.865
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,138.156
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,142.529
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,146.198
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,149.385
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,152.164
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,154.488
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,156.471
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,158.118
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,159.289
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,160.006
+Pcal/yr,Reference,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,160.278
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,32.8106
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,46.9265
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,81.3673
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,113.358
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,140.089
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,157.667
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,183.611
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,224.744
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,271.373
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,324.521
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,384.052
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,449.517
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,518.91
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,591.268
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,665.461
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,739.736
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,812.268
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,881.576
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,946.378
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,1006.01
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,1060.15
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,1108.64
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,1975,76.6074
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,1990,135.7
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2005,211.468
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2010,253.525
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2015,294.186
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2020,330.669
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2025,365.91
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2030,396.398
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2035,425.85
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2040,453.637
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2045,479.679
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2050,504.13
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2055,525.452
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2060,544.272
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2065,561.686
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2070,577.597
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2075,591.81
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2080,604.243
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2085,614.68
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2090,623.172
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2095,629.998
+Pcal/yr,Reference,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2100,635.319
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,15.9534
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,18.8781
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,22.4955
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,25.9407
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,29.4018
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,30.0023
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,32.1889
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,34.2227
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,36.0696
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,37.7081
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,39.1029
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,40.319
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,41.3437
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,42.1803
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,42.8611
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,43.361
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,43.682
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,43.8485
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,43.9183
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,43.9089
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,43.821
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,43.6601
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,1975,12.9603
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,1990,15.9662
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2005,16.5584
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2010,20.962
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2015,19.543
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2020,20.3102
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2025,20.7736
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2030,21.1838
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2035,21.5418
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2040,21.8533
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2045,22.0836
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2050,22.2347
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2055,22.3028
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2060,22.2906
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2065,22.2244
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2070,22.0924
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2075,21.9008
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2080,21.6554
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.3863
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.0994
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2095,20.7958
+Pcal/yr,Reference,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2100,20.4791
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,10.4373
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,13.658
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,15.98
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,19.9599
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,22.609
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,24.5558
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,26.5424
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,28.4327
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,30.243
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,32.0401
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,33.8385
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,35.5847
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,37.2577
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,38.8857
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,40.3699
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,41.6952
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,42.8373
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,43.7831
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,44.5115
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,45.0031
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,45.2445
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,45.2567
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,1975,5.81307
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,1990,6.77565
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2005,8.80556
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2010,8.82462
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2015,10.129
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2020,10.8364
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2025,11.5281
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2030,12.1801
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2035,12.7991
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2040,13.4008
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2045,13.9893
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2050,14.5596
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2055,15.0994
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2060,15.5975
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2065,16.0171
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2070,16.3631
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2075,16.639
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2080,16.8393
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2085,16.959
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2090,16.988
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2095,16.9202
+Pcal/yr,Reference,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2100,16.7675
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,36.8167
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,65.5723
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,105.086
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,131.092
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,151.882
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,159.135
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,168.135
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,177.415
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,185.178
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,191.918
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,197.514
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,201.803
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,204.832
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,206.82
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,207.676
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,207.559
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,206.626
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,204.905
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,202.545
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,199.754
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,196.674
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,193.37
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,1975,50.9861
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,1990,68.5027
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2005,89.6834
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2010,87.81
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2015,85.7922
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2020,88.9913
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2025,91.1523
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2030,92.6289
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2035,93.6871
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2040,94.279
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2045,94.4224
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2050,94.061
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2055,93.1543
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2060,91.8495
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2065,90.1982
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2070,88.2459
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2075,86.0187
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2080,83.6175
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2085,81.1073
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2090,78.5642
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2095,76.0337
+Pcal/yr,Reference,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2100,73.5379
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,16.3277
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,20.6267
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,25.1027
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,24.8584
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,26.7666
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,28.4412
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,30.0852
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,31.7569
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,33.3832
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,34.9889
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,36.5627
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,38.0965
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,39.5736
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,41.0466
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,42.4411
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,43.736
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,44.8949
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,45.8868
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,46.6757
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,47.2563
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,47.5873
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,47.6707
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,1975,8.43069
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,1990,10.1678
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2005,15.4598
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2010,15.3115
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2015,14.237
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2020,14.9701
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2025,15.6919
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2030,16.3509
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2035,16.9524
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2040,17.5285
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2045,18.099
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2050,18.6675
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2055,19.2181
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2060,19.7446
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2065,20.1977
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2070,20.581
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2075,20.8953
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2080,21.1281
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.2685
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.3136
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2095,21.2415
+Pcal/yr,Reference,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2100,21.0563
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,12.2096
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,17.6149
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,27.7527
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,36.8303
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,43.9758
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,47.9558
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,52.2798
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,56.9647
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,61.4543
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,65.8167
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,69.9715
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,73.8007
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,77.2336
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,80.2507
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,82.9579
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,85.3524
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,87.397
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,89.1096
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,90.4644
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,91.5004
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,92.2473
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,92.7533
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,1975,18.4841
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,1990,24.9091
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2005,30.6859
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2010,35.0233
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2015,38.1217
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2020,39.6028
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2025,40.7704
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2030,41.6533
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2035,42.3423
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2040,42.8097
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2045,43.0762
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2050,43.1458
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2055,43.0344
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2060,42.7488
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2065,42.3892
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2070,41.9701
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2075,41.4819
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2080,40.9428
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2085,40.3439
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2090,39.7104
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2095,39.0555
+Pcal/yr,Reference,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2100,38.3969
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,20.7197
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,24.5172
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,24.9824
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,34.9572
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,46.0316
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,50.8035
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,56.0085
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,61.0836
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,65.3291
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,68.8846
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,71.6905
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,73.673
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,75.065
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,76.1676
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,77.1444
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,77.8474
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,78.1864
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,78.2431
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,78.118
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,77.9133
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,77.6574
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,77.3047
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,41.9728
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,47.8705
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,49.7129
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,48.791
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,48.4329
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,49.6707
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,50.4158
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,50.8238
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,51.1159
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,51.3269
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,51.3852
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,51.2165
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,50.8052
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,50.188
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,49.4742
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,48.678
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,47.8038
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,46.8514
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,45.8655
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,44.897
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,43.9664
+Pcal/yr,Reference,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,43.0582
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,101.725
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,239.954
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,538.163
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,668.486
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,770.581
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,864.135
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,946.782
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,1004.19
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,1036.3
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,1051.58
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,1053.43
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,1042.63
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,1021.51
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,994.46
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,963.273
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,929.723
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,894.175
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,857.447
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,820.086
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,783.803
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,749.669
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,717.951
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,1975,550.76
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,1990,783.611
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2005,828.763
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2010,846.242
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2015,886.738
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2020,881.756
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2025,873.216
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2030,862.345
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2035,847.681
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2040,828.078
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2045,804.026
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2050,776.201
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2055,745.475
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2060,712.697
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2065,679.108
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2070,645.765
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2075,612.875
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2080,580.354
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2085,548.714
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2090,518.89
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2095,491.465
+Pcal/yr,Reference,China,FoodDemand,FoodDemand,FoodDemand_Staples,2100,466.427
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,6.44687
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,11.2116
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,17.8103
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,23.9176
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,31.381
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,34.1821
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,37.3449
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,40.3518
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,43.2396
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,46.0125
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,48.5975
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,50.941
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,53.0132
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,54.8383
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,56.3832
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,57.6588
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,58.6481
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,59.3437
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,59.7507
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,59.9297
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,59.9078
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,59.7015
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,8.56683
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,13.0219
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,17.6705
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,16.834
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,18.2664
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,19.1992
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,19.954
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,20.6232
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,21.1764
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,21.6251
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,21.9786
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,22.2195
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,22.3548
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,22.4089
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,22.3723
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,22.2645
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,22.0887
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,21.8408
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.5296
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.1824
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,20.8071
+Pcal/yr,Reference,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,20.4069
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,56.7587
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,64.0024
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,62.9874
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,63.2257
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,63.1383
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,66.5328
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,68.8546
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,70.6164
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,71.8232
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,72.5836
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,72.9669
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,73.0974
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,72.9643
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,72.6443
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,72.0376
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,71.1301
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,69.9912
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,68.7676
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,67.555
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,66.3946
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,65.285
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,64.1844
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,1975,65.501
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,1990,60.8196
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2005,56.6506
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2010,53.5429
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2015,50.6221
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2020,49.9871
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2025,49.3892
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2030,48.6852
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2035,47.8504
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2040,46.9784
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2045,46.1273
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2050,45.2786
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2055,44.3823
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2060,43.3934
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2065,42.2512
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2070,41.0009
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2075,39.7231
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2080,38.4892
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2085,37.337
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2090,36.2718
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2095,35.2756
+Pcal/yr,Reference,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2100,34.3158
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,212.945
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,260.688
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,289.747
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,302.335
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,304.323
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,314.509
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,323.368
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,332.161
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,340.734
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,349.277
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,357.318
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,364.544
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,370.883
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,376.785
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,381.826
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,386.134
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,389.736
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,392.636
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,394.764
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,395.908
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,396.038
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,394.899
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,1975,148.132
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,1990,152.61
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2005,169.779
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2010,169.219
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2015,172.225
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2020,174.604
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2025,176.907
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2030,178.967
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2035,180.814
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2040,182.46
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2045,183.847
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2050,184.888
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2055,185.538
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2060,185.88
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2065,185.797
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2070,185.478
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2075,184.99
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2080,184.285
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2085,183.321
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2090,181.971
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2095,180.226
+Pcal/yr,Reference,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2100,177.974
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,31.246
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,35.8876
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,28.4419
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,31.6801
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,31.0908
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,32.0599
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,33.3265
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,34.7195
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,35.8848
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,36.8455
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,37.5766
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,38.121
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,38.5931
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,39.0712
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,39.4194
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,39.597
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,39.5814
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,39.4142
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,39.1396
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,38.7914
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,38.3729
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,37.859
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,38.6181
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,39.1425
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,44.2231
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,31.5447
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,31.1231
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,29.9351
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,28.8508
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,27.8669
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,27.0365
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,26.3473
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,25.7482
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,25.2021
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,24.6926
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,24.2184
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,23.7147
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,23.1967
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,22.6641
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,22.1163
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,21.5607
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,21.0076
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,20.4561
+Pcal/yr,Reference,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,19.8928
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,24.3545
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,35.6966
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,44.375
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,55.4183
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,65.5528
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,70.1379
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,75.3043
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,80.2378
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,84.6427
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,88.6507
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,92.1471
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,95.1316
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,97.595
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,99.5867
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,101.112
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,102.163
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,102.728
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,102.854
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,102.627
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,102.18
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,101.536
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,100.69
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,1975,46.8622
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,1990,63.4178
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2005,64.834
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2010,60.3785
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2015,59.2371
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2020,61.2966
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2025,63.0428
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2030,64.5392
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2035,65.7921
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2040,66.7807
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2045,67.4992
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2050,67.9439
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2055,68.0849
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2060,67.9581
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2065,67.5919
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2070,66.9923
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2075,66.173
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2080,65.1677
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2085,64.0286
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2090,62.8402
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2095,61.6153
+Pcal/yr,Reference,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2100,60.3468
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,8.39411
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,9.27527
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,10.18
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,10.6957
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,10.7138
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,11.2401
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,11.7621
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,12.2827
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,12.7839
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,13.2766
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,13.7661
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,14.2575
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,14.7386
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,15.2007
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,15.6155
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,15.9843
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,16.3072
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,16.5841
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,16.8098
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,16.9648
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,17.0463
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,17.0529
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,1975,3.8804
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,1990,4.46471
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2005,5.13286
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2010,4.92057
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2015,5.00743
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2020,5.18201
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2025,5.36605
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2030,5.54754
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2035,5.71703
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2040,5.87348
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2045,6.02151
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2050,6.16255
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2055,6.29472
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2060,6.41528
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2065,6.51128
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2070,6.58639
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2075,6.64474
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2080,6.6863
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2085,6.71014
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2090,6.70807
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2095,6.679
+Pcal/yr,Reference,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2100,6.62219
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,107.778
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,178.582
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,263.464
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,380.161
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,491.442
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,603.859
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,728.122
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,832.633
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,932.462
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,1028.15
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,1117.62
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,1198.84
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,1270.46
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,1331.67
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,1382.03
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,1421.92
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,1451.14
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,1469.89
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,1478.74
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,1479.48
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,1472.76
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,1460.43
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,1975,341.269
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,1990,540.157
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2005,653.095
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2010,674.36
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2015,687.194
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2020,704.692
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2025,719.623
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2030,737.698
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2035,755.345
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2040,771.224
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2045,785.17
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2050,795.76
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2055,802.396
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2060,804.177
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2065,801.624
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2070,795.688
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2075,786.413
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2080,773.874
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2085,758.332
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2090,740.719
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2095,721.271
+Pcal/yr,Reference,India,FoodDemand,FoodDemand,FoodDemand_Staples,2100,701.092
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,14.9084
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,34.1271
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,51.8793
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,62.7676
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,86.6095
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,101.678
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,117.949
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,134.582
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,149.305
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,162.48
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,173.543
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,182.368
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,189.282
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,194.383
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,197.759
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,199.543
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,200.051
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,199.527
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,198.154
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,196.078
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,193.426
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,190.304
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,81.6677
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,129.69
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,157.495
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,169.667
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,184.353
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,188.828
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,191.901
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,193.946
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,195.441
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,196.063
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,195.685
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,194.161
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,191.781
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,188.57
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,184.663
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,180.211
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,175.357
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,170.243
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,164.986
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,159.666
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,154.343
+Pcal/yr,Reference,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,149.062
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,36.0585
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,50.2037
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,54.5681
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,56.0512
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,57.8491
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,61.4569
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,61.4606
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,61.5725
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,61.2434
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,60.6501
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,59.9828
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,59.2181
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,58.4272
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,57.6012
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,56.6065
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,55.4612
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,54.2149
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,52.9216
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,51.5315
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,50.1039
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,48.6543
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,47.1825
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,64.3054
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,64.5408
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,59.0876
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,55.4833
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,55.1117
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,54.3708
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,53.4152
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,52.2213
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,50.9283
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,49.5777
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,48.173
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,46.7541
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,45.3453
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,43.9307
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,42.4322
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,40.874
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,39.3161
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,37.7945
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,36.2411
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,34.7079
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,33.2124
+Pcal/yr,Reference,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,31.7558
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,20.6051
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,33.3824
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,51.0759
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,62.7577
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,71.5147
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,76.558
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,82.4608
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,88.7358
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,94.5586
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,99.8769
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,104.727
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,109.124
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,112.939
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,116.074
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,118.835
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,121.261
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,123.361
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,125.074
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,126.378
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,127.316
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,128.012
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,128.5
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,1975,34.1187
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,1990,51.2315
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2005,62.853
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2010,60.9341
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2015,63.0755
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2020,66.1244
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2025,68.7194
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2030,70.8681
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2035,72.6297
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2040,74.0136
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2045,75.002
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2050,75.6008
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2055,75.8249
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2060,75.6727
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2065,75.3736
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2070,75.0062
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2075,74.5518
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2080,73.975
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2085,73.2662
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2090,72.4445
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2095,71.5913
+Pcal/yr,Reference,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2100,70.7274
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,20.7675
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,44.5715
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,70.4189
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,97.0648
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,117.532
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,129.526
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,143.003
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,160.567
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,177.632
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,194.319
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,210.015
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,224.483
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,237.917
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,250.517
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,262.181
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,272.63
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,281.707
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,289.532
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,296.177
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,301.811
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,306.52
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,310.204
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,1975,43.4033
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,1990,90.0751
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2005,125.247
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2010,121.098
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2015,129.48
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2020,141.782
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2025,153.239
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2030,163.49
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2035,173.351
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2040,182.736
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2045,191.298
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2050,198.814
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2055,205.138
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2060,210.209
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2065,214.09
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2070,216.879
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2075,218.586
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2080,219.327
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2085,219.267
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2090,218.571
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2095,217.405
+Pcal/yr,Reference,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2100,215.753
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,15.0808
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,28.725
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,47.629
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,59.7927
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,71.6163
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,83.8877
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,93.3579
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,107.621
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,123.279
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,140.383
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,158.42
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,176.789
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,194.719
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,211.851
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,228.413
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,244.09
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,258.549
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,271.427
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,282.764
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,292.367
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,300.475
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,307.103
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,39.6164
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,58.6553
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,80.2701
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,85.8052
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,90.7
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,97.2226
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,104.042
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,108.485
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,112.092
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,115.122
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,117.73
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,119.883
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,121.334
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,122.132
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,122.474
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,122.46
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,122.275
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,121.853
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,121.265
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,120.357
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,119.247
+Pcal/yr,Reference,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,117.951
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,63.4843
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,73.216
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,66.7658
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,83.4337
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,89.6803
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,91.6059
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,93.9331
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,97.4993
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,100.268
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,102.513
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,104.1
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,105.212
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,106.185
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,107.406
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,108.395
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,109.102
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,109.415
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,109.352
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,109.016
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,108.499
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,107.803
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,106.821
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,85.1448
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,89.7159
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,81.939
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,79.6702
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,79.2439
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,78.5406
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,77.5853
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,76.3778
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,75.3727
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,74.7166
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,74.2225
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,73.798
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,73.3255
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,72.8133
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,72.1714
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,71.4639
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,70.675
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,69.768
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,68.7456
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,67.6425
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,66.4665
+Pcal/yr,Reference,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,65.1821
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,6.85114
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,9.73927
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,14.8874
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,20.3183
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,24.2502
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,25.1942
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,27.0497
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,29.7646
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,32.2291
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,34.504
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,36.5529
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,38.386
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,40.0431
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,41.5652
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,42.8616
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,43.8962
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,44.6755
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,45.1908
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,45.5006
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,45.6145
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,45.5322
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,45.2502
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,1975,17.4789
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,1990,25.1029
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2005,33.8506
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2010,32.2865
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2015,32.8021
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2020,34.2213
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2025,35.3432
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2030,36.1238
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2035,36.7575
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2040,37.2861
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2045,37.7003
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2050,38.0148
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2055,38.218
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2060,38.3254
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2065,38.2836
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2070,38.0771
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2075,37.7141
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2080,37.202
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2085,36.6086
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2090,35.9334
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2095,35.1746
+Pcal/yr,Reference,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2100,34.3294
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,5.45029
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,7.71042
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,10.6529
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,15.4758
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,15.7927
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,10.4211
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,10.5194
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,11.7656
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,13.0254
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,14.2638
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,15.4931
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,16.6952
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,17.8446
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,18.9285
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,19.9011
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,20.7471
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,21.4712
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,22.0955
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,22.617
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,23.0294
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,23.3324
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,23.5378
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,5.44418
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,9.8581
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,13.0666
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,15.5017
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,12.6661
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,15.1044
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,16.1217
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,16.6551
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,17.0796
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,17.4069
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,17.6349
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,17.7668
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,17.8152
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,17.787
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,17.6875
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,17.5154
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,17.2742
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,16.9839
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,16.6505
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,16.282
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,15.8871
+Pcal/yr,Reference,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,15.4735
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,13.2174
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,18.1005
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,26.6654
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,35.2363
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,41.8885
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,45.6066
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,49.8807
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,54.4492
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,58.5359
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,62.3017
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,65.6855
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,68.6297
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,71.0949
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,73.1087
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,74.7858
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,76.1437
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,77.1748
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,77.8862
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,78.2985
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,78.4555
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,78.4196
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,78.2265
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,18.6072
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,26.2893
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,35.9844
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,37.2285
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,40.9168
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,42.499
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,43.783
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,44.7846
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,45.5832
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,46.1594
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,46.5019
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,46.6138
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,46.5084
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,46.2094
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,45.8066
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,45.3198
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,44.7495
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,44.093
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,43.3624
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,42.5815
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,41.7824
+Pcal/yr,Reference,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,40.9791
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,12.7534
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,18.9338
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,31.0783
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,42.7424
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,55.7554
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,68.7284
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,83.6293
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,98.8574
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,113.998
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,129.606
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,145.272
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,160.772
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,175.846
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,190.322
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,203.958
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,216.581
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,228.141
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,238.444
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,247.444
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,255.164
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,261.702
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,267.132
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,76.366
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,108.112
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,158.361
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,159.473
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,163.812
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,171.408
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,178.183
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,184.372
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,189.979
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,194.713
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,198.49
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,201.269
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,203.057
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,203.848
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,203.891
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,203.312
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,202.227
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,200.696
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,198.763
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,196.494
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,193.983
+Pcal/yr,Reference,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,191.32
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,5.80736
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,13.3242
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,19.4856
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,25.437
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,31.4665
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,33.4363
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,34.8018
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,35.8487
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,36.4486
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,36.6182
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,36.4179
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,35.892
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,35.1321
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,34.1854
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,33.1288
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,32.0325
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,30.903
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,29.7854
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,28.6916
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,27.6326
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,26.6194
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,25.6076
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,1975,32.1265
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,1990,29.2764
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2005,27.0415
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2010,27.6294
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2015,25.273
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2020,25.3768
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2025,25.3884
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2030,25.2982
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2035,25.0587
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2040,24.6348
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2045,24.0405
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2050,23.301
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2055,22.4621
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2060,21.5793
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2065,20.6727
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2070,19.7623
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2075,18.8702
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2080,18.0096
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2085,17.1904
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2090,16.4185
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2095,15.6974
+Pcal/yr,Reference,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2100,14.9919
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,35.7168
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,61.5864
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,102.402
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,141.456
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,170.403
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,195.205
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,220.974
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,244.847
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,266.614
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,286.882
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,305.233
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,321.346
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,335.378
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,347.416
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,357.4
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,365.326
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,371.175
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,375.087
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,377.257
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,377.979
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,377.53
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,376.05
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,118.338
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,152.601
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,215.914
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,218.677
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,225.296
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,232.318
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,238.061
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,242.911
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,246.67
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,249.173
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,250.45
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,250.518
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,249.624
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,247.883
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,245.339
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,242.155
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,238.327
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,233.981
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,229.259
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,224.294
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,219.224
+Pcal/yr,Reference,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,214.088
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,6.05559
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,12.0536
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,13.9052
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,15.4372
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,16.2302
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,16.7306
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,17.1609
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,17.4817
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,17.7508
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,17.9725
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,18.1286
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,18.222
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,18.2657
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,18.3073
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,18.4566
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,18.5967
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,18.7164
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,18.8142
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,18.8836
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,18.9316
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,18.9611
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,18.9762
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,10.4196
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,8.221
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,8.97832
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,8.60249
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,8.51804
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,8.47573
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,8.43998
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,8.41451
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,8.39362
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,8.37675
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,8.3649
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,8.35783
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,8.35409
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,8.35065
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,8.33979
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,8.32987
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,8.32155
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,8.31487
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,8.31021
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,8.30706
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,8.30518
+Pcal/yr,Reference,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,8.30432
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,151.485
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,196.864
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,248.976
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,243.447
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,246.455
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,259.928
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,272.357
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,285.071
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,296.592
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,307.196
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,316.887
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,325.896
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,334.76
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,343.792
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,352.544
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,360.479
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,367.394
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,373.324
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,378.175
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,382.099
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,385.184
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,387.357
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,1975,75.1564
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,1990,111.259
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2005,133.64
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2010,126.53
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2015,124.976
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2020,129.598
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2025,134.296
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2030,138.711
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2035,142.852
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2040,146.69
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2045,150.203
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2050,153.542
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2055,156.875
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2060,160.246
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2065,163.407
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2070,166.22
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2075,168.575
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2080,170.398
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2085,171.72
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2090,172.613
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2095,173.124
+Pcal/yr,Reference,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2100,173.219

@@ -1,0 +1,1409 @@
+Units,scenario,region,gcam-consumer,nodeinput,input,year,value
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.713716
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.358485
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.327379
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.274034
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.270179
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.273658
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.277427
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.282528
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.288621
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.295078
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.301827
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.30822
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.316234
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.323081
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.328627
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.332825
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.335839
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.337886
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.339138
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.339767
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.340012
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.339903
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0393059
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0393309
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.03756
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.03618
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0369779
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0357698
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0347446
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0338024
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0329758
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0323191
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0317871
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0313235
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0315842
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0318199
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0320345
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0322166
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0323577
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0324677
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0325401
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0325766
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.032591
+2005$/Mcal/day,Lower Meat Demand,Africa_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0325706
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.385124
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.320242
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.326498
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.308137
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.304967
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.304154
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.302408
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.300463
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.299741
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.299078
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.298557
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.297926
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.298759
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.299329
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.29974
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.299978
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.300164
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.300297
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.300364
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.300305
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.30018
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.300021
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.02604
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.025817
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.026863
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0264329
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0261315
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0255877
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0250689
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0244114
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.024148
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0238728
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0236343
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0233827
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0235073
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0235533
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0235644
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0235405
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0235244
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0235076
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0234812
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0234474
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0234183
+2005$/Mcal/day,Lower Meat Demand,Africa_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0234177
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.559309
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.288219
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.254791
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.232156
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.226534
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.224151
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.223928
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.2243
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.22543
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.226441
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.227343
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.227971
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.229611
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.230939
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.23202
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.23287
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.23349
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.233936
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.234187
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.234251
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.234212
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.234065
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.044549
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0421755
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0417657
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0441231
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0433531
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0416774
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0405445
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0396469
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0391015
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0386477
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0382974
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0380074
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0380876
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0381365
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0381711
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0381874
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0381833
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0381714
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0381477
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0381119
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0380769
+2005$/Mcal/day,Lower Meat Demand,Africa_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0380451
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.390602
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.287137
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.28545
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.259493
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.248112
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.246073
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.245911
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.246243
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.246587
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.246957
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.247407
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.247739
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.249503
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.250956
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.252151
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.253089
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.253767
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.254237
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.254496
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.254552
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.254491
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.254297
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0528215
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0510511
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0497996
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0524772
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.054664
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0531677
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0521838
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0513048
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0503851
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0496378
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0490549
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0485758
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0487478
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0488879
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0490039
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0490969
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0491653
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0492167
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0492514
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0492647
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0492691
+2005$/Mcal/day,Lower Meat Demand,Africa_Western,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0492562
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.751776
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.326043
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.276584
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.249561
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.264681
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.265116
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.26792
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.269969
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.272162
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.274015
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.275596
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.276533
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.278538
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.279948
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.280978
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.28161
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.281899
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.281952
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.281771
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.281353
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.28076
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.279947
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0352119
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0343037
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0328921
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0292686
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0330233
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0315185
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0304011
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0293441
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0287697
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0282615
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0278823
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0275319
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0275652
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0275377
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0274849
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0274108
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0273208
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0272351
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0271368
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0270291
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0269237
+2005$/Mcal/day,Lower Meat Demand,Argentina,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0268118
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.529085
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.316421
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.335188
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.299982
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.277175
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.275245
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.273853
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.272053
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.271197
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.270223
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.269189
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.268117
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.268512
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.26864
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.268589
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.268384
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.268043
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.267585
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.266984
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.266211
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.265284
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.26419
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0327537
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0367484
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0351936
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0372342
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0346706
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.033635
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0328729
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0320914
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0318831
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0316951
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0315157
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0313124
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0314016
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0314203
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0314144
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.031383
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0313322
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0312783
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0312081
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0311233
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0310312
+2005$/Mcal/day,Lower Meat Demand,Australia_NZ,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0309254
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.395505
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.148224
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.155235
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.147656
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.143649
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.143127
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.142785
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.142051
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.141805
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.141334
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.140707
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.139879
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.139674
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.139338
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.138923
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.138431
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.137797
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.137081
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.136248
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.135287
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.13426
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.133148
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0244895
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0226963
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0222024
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0218787
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0213125
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0201687
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0193453
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0186408
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0185764
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0185194
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0184404
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0183318
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0183095
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0182697
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0182141
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.018142
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0180482
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0179538
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.017852
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0177366
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0176301
+2005$/Mcal/day,Lower Meat Demand,Brazil,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0175176
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.308641
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.281344
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.270202
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.262009
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.251943
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.24924
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.24746
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.24497
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.243195
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.241282
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.239497
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.237782
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.237506
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.236977
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.236187
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.235197
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.234037
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.232729
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.231268
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.229649
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.227874
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.2259
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0293753
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0293177
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.026563
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.028062900000000002
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.03005
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0293508
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0288959
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0283202
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0281609
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0280171
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0279168
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0278022
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0279038
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0279141
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0278913
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0278405
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0277781
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0277156
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0276369
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.027553
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0274643
+2005$/Mcal/day,Lower Meat Demand,Canada,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0273662
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.414733
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.249867
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.241264
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.203734
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.190567
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.188628
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.187297
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.185576
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.184571
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.183431
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.182255
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.18097
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.180617
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.180082
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.17946
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.178757
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.177972
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.17714
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.176226
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.175229
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.174209
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.173149
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0350073
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0331184
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0366597
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0349213
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0342061
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0331834
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0324126
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.031603
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0310664
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0305604
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0301297
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0297373
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0298097
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0298133
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.02979
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0297375
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0296666
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0295969
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0295142
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0294173
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0293229
+2005$/Mcal/day,Lower Meat Demand,Central America and Caribbean,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0292213
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.447138
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.275531
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.270391
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.254284
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.246766
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.245965
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.245385
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.244208
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.242885
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.2414
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.239748
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.237978
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.237455
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.236839
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.236167
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.235511
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.234774
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.234017
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.233213
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.23238
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.231573
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.230695
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0224052
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0220503
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0234974
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0244156
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0258825
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0254028
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0251021
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0247337
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0244444
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0241585
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0238736
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0235671
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0235193
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0234339
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0233495
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0232646
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0231545
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.023049300000000002
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0229387
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0228339
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0227473
+2005$/Mcal/day,Lower Meat Demand,Central Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0226317
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.505005
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.441619
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.496844
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.482886
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.483568
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.47906
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.474345
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.468771
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.464629
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.460317
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.455898
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.451308
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.448817
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.446073
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.443244
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.440351
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.437383
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.434415
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.431485
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.42863
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.425944
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.423346
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0665429
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0565825
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0599002
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0591629
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0576068
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0560802
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0547753
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.053352
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0525026
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0515183
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0504798
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0493746
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0487633
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0480972
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0474392
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0467916
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0461606
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0455977
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0450679
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0445804
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0441471
+2005$/Mcal/day,Lower Meat Demand,China,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0437417
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.520698
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.230426
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.225835
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.189949
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.178788
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.178031
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.177527
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.176786
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.176298
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.175734
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.175117
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.174254
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.174079
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.173671
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.173089
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.17234
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.171444
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.170441
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.169347
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.168194
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.16702
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.165801
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.048926
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0469317
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0393482
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0410432
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0406347
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0392394
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0382287
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0372975
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0368922
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.036541
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.036252
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.035961
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0359774
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.03594
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0358853
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0358007
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0356945
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0355886
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0354747
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0353577
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0352576
+2005$/Mcal/day,Lower Meat Demand,Colombia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0351516
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.218705
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.213043
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.204393
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.193099
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.184238
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.182001
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.180833
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.179169
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.178064
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.176918
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.175817
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.174624
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.17447
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.174154
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.173742
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.173222
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.172626
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.172006
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.171336
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.170611
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.169861
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.169026
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0253779
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0247767
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0253666
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0253672
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0251457
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0244788
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0241723
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.023719
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.023613
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0235015
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.023402
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0232722
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0233352
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0233427
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0233391
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.023298
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0232289
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0231572
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0230705
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0229767
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0228874
+2005$/Mcal/day,Lower Meat Demand,EU-12,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0227799
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.29424
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.28675
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.276096
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.258365
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.250835
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.248231
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.246786
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.244742
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.243489
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.242082
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.240632
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.239031
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.238796
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.23836
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.2378
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.23716
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.236445
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.235674
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.23479
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.233769
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.23267
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.231458
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.030898
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0301652
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0286063
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0284946
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0279877
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0274603
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0272889
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0269036
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0267917
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0266661
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0265617
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0264231
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.026524
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0265543
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0265545
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0265211
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0264657
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0264071
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0263245
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0262224
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0261168
+2005$/Mcal/day,Lower Meat Demand,EU-15,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.025996
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.161605
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.153859
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.179067
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.180803
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.1669
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.165834
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.165396
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.164428
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.163725
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.162959
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.162247
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.16138
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.161197
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.160775
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.160247
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.159578
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.158834
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.158029
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.157148
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.156204
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.155264
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.154266
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.01924
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0186718
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0186748
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0201303
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0197781
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0194611
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0192998
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0190835
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0189915
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.018900900000000002
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0188273
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0187284
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0187693
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0187707
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0187586
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0187225
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0186718
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0186222
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0185602
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.018491
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0184269
+2005$/Mcal/day,Lower Meat Demand,Europe_Eastern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0183538
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.500806
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.283124
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.285882
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.263555
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.26187
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.260221
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.258325
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.254909
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.252229
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.249156
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.245973
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.242459
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.240928
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.238992
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.236819
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.234387
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.231767
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.229073
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.226283
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.223433
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.220613
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.217789
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0298837
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0297035
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0302175
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0299182
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0295683
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0288241
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0283754
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0277677
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0277059
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.027624
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0275437
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0274051
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0275026
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.027514
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0274955
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0274286
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0273231
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0272118
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.027077
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.026929
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0267875
+2005$/Mcal/day,Lower Meat Demand,Europe_Non_EU,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0266257
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.401596
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.392168
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.346506
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.345721
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.345
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.341984
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.340452
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.338484
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.337499
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.336135
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.334579
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.332838
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.332447
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.331927
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.331237
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.330423
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.32945
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.328332
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.327042
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.325564
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.32397
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.322183
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0453566
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0449004
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0412123
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0373649
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0328808
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0322368
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0319716
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0315109
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.031381
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0312232
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0310734
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0308939
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0309863
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0310127
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0310158
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.030985
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0309259
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.030859
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0307667
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0306565
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0305461
+2005$/Mcal/day,Lower Meat Demand,European Free Trade Association,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0304152
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,1.88263
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.141714
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.144343
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.125018
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.114462
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.114517
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.114906
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.114871
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.114803
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.114565
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.114327
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.113866
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.114416
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.114646
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.114605
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.114318
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.113845
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.113242
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.112496
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.111642
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.110708
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.109715
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.029412399999999998
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0296326
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0294895
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0295925
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0292157
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0279043
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0272243
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0265133
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0266277
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0266102
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0265925
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0264757
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0269455
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0272719
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0274699
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.027526
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0274803
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0273588
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0271415
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0268593
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0265199
+2005$/Mcal/day,Lower Meat Demand,India,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0261392
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.472389
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.247082
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.283128
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.301339
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.28837
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.283832
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.278599
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.272387
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.266649
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.260992
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.255533
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.250099
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.24607
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.241933
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.237812
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.233774
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.229802
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.225943
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.222169
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.218474
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.214895
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.211414
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0631971
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0628664
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0595568
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0602101
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.059763
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0582106
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0568148
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0554859
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0549567
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0544486
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0538793
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0532178
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0530621
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.052782
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0524274
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0520094
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0515579
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0511021
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0506416
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0501798
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0497333
+2005$/Mcal/day,Lower Meat Demand,Indonesia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0492918
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.974067
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.81536
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.692183
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.638663
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.584985
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.577452
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.572822
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.56746
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.564666
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.561755
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.558726
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.555571
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.555267
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.554808
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.554233
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.553545
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.552627
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.551513
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.54995
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.547915
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.545625
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.543007
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.1455
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.130107
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.12118
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.119578
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.115136
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.112293
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.110588
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.108234
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.106634
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.104917
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.103391
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.101867
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.101574
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.101069
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.100446
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0996966
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.09889
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.098071
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0972186
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0963601
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0955287
+2005$/Mcal/day,Lower Meat Demand,Japan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0947032
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.390789
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.253677
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.254762
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.217844
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.211603
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.209398
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.207417
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.204971
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.20347
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.201792
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.199984
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.197964
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.196858
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.195581
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.194201
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.192767
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.191227
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.189617
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.187916
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.186128
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.184308
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.182453
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0218409
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0220235
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0226875
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0225081
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0223988
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0215464
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0209013
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.020281
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0201852
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0201204
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0201135
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0200833
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0201143
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0200685
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0199978
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0198985
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0197891
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0196902
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0195913
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0194974
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0194139
+2005$/Mcal/day,Lower Meat Demand,Mexico,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.019332
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.477225
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.357439
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.363189
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.309228
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.2779
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.274578
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.271068
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.26627
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.262842
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.259472
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.25633
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.253346
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.252634
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.251733
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.250686
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.249542
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.248256
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.24688
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.245359
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.243688
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.241968
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.240178
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0375027
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0342099
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0358677
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0333094
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0326746
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0316765
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0309772
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0301186
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.029848
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0295657
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0293075
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0290092
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0291031
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0291048
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0290671
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.028992
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0288885
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0287779
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0286417
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.028485
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0283237
+2005$/Mcal/day,Lower Meat Demand,Middle East,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0281385
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.199686
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.116354
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.117772
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.113476
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.111383
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.114396
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.115646
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.116348
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.117093
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.1177
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.118469
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.119163
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.120682
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.122127
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.123442
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.124582
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.125544
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.126153
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.126289
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.126097
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.125679
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.125022
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0273174
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0275043
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0275882
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0274272
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0272252
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0259588
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0248873
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0243098
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0240627
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0240045
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0242286
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0246103
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0255505
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0265839
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0276356
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0286584
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0296274
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0303649
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.030738
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0308807
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0308689
+2005$/Mcal/day,Lower Meat Demand,Pakistan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0306841
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.355887
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.333554
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.273566
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.249381
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.234578
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.232835
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.231513
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.229757
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.228591
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.227545
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.226632
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.225713
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.225418
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.224906
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.224311
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.223668
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.222997
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.222316
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.221572
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.22076
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.219925
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.219035
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0238944
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0229548
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0205511
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0229399
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0226783
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0222477
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.021942
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0216126
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0214434
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0212938
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0211577
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.021009
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0210192
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0209982
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0209657
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0209171
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0208556
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0207947
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0207257
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0206531
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0205873
+2005$/Mcal/day,Lower Meat Demand,Russia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0205095
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.548413
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.30562
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.259694
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.210974
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.196153
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.194956
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.194436
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.193783
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.193548
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.193194
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.192734
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.192109
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.19196
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.191681
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.191299
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.190835
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.19027
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.189637
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.188942
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.188179
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.187395
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.186562
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0192147
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0203969
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0208254
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0213737
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0212119
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0207782
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0204863
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0201363
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.020039
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0199555
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0198966
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0198143
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0198328
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0197832
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0197049
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0195993
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0194856
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0193802
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0192748
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0191579
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.019046
+2005$/Mcal/day,Lower Meat Demand,South Africa,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0189222
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.828998
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.649989
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.632254
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.548005
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.496352
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.499592
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.497662
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.49495
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.493778
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.49256
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.491309
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.489743
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.49008
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.490199
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.490188
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.489991
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.489504
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.488779
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.487708
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.486272
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.484652
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.482754
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.077902
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.070549
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0847022
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0726963
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0689942
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.066738
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0650791
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0634771
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0625914
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.061807
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0611566
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.060522
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0606257
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0606192
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0605617
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0604474
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0602908
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0601247
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0599388
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0597375
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0595402
+2005$/Mcal/day,Lower Meat Demand,South America_Northern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0593294
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.553884
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.34987
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.318567
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.283198
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.269889
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.26735
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.265228
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.262494
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.260663
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.258654
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.256573
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.254343
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.253464
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.252454
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.251378
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.250217
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.248919
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.247512
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.245983
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.244343
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.242663
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.240911
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0355548
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.033413
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0335842
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.034328
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0342446
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0332403
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0324409
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0316241
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0312082
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.030821
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0304687
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0301019
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.030113
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0300708
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0300171
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0299441
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0298534
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0297641
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0296659
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0295604
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.02946
+2005$/Mcal/day,Lower Meat Demand,South America_Southern,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0293502
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,2.70252
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.248688
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.276087
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.269033
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.259785
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.260144
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.260586
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.260525
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.261329
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.262099
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.262907
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.263412
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.265053
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.266398
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.267492
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.268377
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.269059
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.269587
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.269929
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.270091
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.270116
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.269991
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0284442
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0281843
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0289231
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0294091
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.029859
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0291023
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0285375
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0278538
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0276921
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0275358
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0274051
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0271754
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0276267
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0280005
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.028310599999999998
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.028562
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0287326
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0288381
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0288744
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0288476
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0287654
+2005$/Mcal/day,Lower Meat Demand,South Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0286133
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,1.53197
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,1.29744
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,1.15887
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.952475
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.824025
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.812289
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.802433
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.792231
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.785397
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.778726
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.772219
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.765753
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.762926
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.760329
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.757749
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.754853
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.751827
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.748528
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.744924
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.74106
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.737175
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.733002
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.136284
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.127118
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.111969
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.112275
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.102396
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.10048
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0991653
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0973854
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0962754
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0949419
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0936156
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0921406
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0917327
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0910867
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0903238
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0894565
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0885423
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0876266
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.086708
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0858086
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0849593
+2005$/Mcal/day,Lower Meat Demand,South Korea,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0841133
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.632628
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.345796
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.349291
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.310667
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.285741
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.283261
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.28091699999999997
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.278312
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.27621
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.274144
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.27217
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.270137
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.26937
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.268432
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.2674
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.266299
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.265148
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.263986
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.262788
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.261551
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.260317
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.259063
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0370759
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0365292
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0362458
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0362242
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0355637
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0342765
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0331626
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0320211
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0311615
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0303885
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0297075
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0290775
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0291205
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0291041
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0290522
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.0289678
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0288589
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0287346
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0285895
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0284306
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0282707
+2005$/Mcal/day,Lower Meat Demand,Southeast Asia,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0281051
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.469886
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.354788
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.330724
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.291426
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.267388
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.263825
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.260894
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.257965
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.25612
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.254426
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.253
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.251693
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.251848
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.251898
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.251524
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.251101
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.25067
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.250289
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.249946
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.249598
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.249304
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.249011
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0604836
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0464362
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0397608
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0403237
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0396256
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0385989
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0378269
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0369756
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0363703
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0358003
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.035298
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.03479
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0347653
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0346759
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.0345715
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.034431
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0342679
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0341014
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0339202
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0337311
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0335527
+2005$/Mcal/day,Lower Meat Demand,Taiwan,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.033366
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,1975,0.320009
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,1990,0.292997
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2005,0.295273
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2010,0.280179
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2015,0.278751
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2020,0.277078
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2025,0.275902
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2030,0.273986
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2035,0.272899
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2040,0.271201
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2045,0.269456
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2050,0.267898
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2055,0.268062
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2060,0.268086
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2065,0.268008
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2070,0.267964
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2075,0.26787
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2080,0.267616
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2085,0.267171
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2090,0.266552
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2095,0.265873
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_NonStaples,2100,0.26513
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,1975,0.0261819
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,1990,0.0245086
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2005,0.0249088
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2010,0.0248467
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2015,0.0251036
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2020,0.0245867
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2025,0.0242152
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2030,0.0237468
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2035,0.0235949
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2040,0.0234452
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2045,0.0233478
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2050,0.0232289
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2055,0.0233107
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2060,0.0233263
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2065,0.023318
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2070,0.023286
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2075,0.0232375
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2080,0.0231892
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2085,0.0231292
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2090,0.0230541
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2095,0.0229816
+2005$/Mcal/day,Lower Meat Demand,USA,FoodDemand,FoodDemand,FoodDemand_Staples,2100,0.0229058
